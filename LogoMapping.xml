@@ -1,0 +1,451 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Mappings>
+  <!-- ******************************************************************** -->
+  <TV>
+    <Channel>
+      <Item Name="31 Digital">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>31 Digital.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="7mate">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>7mate.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="7Two">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>7Two.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ABC News 24">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>ABC News 24.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ABC">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>ABC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ABC2">
+	  <Provider />
+      </Item>
+      <File>ABC2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ABC2 / ABC4">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>ABC2 ABC4.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ABC3">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>ABC3.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ABC4Kids">
+        <Provider />
+      </Item>
+      <File>ABC4Kids.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Aspire TV">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Aspire TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="C31">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>C31 Melbourne.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Ten Central">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Central Digital Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="44 Adelaide">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Channel 44.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="DDT">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Darwin Digital Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Education TV">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Education TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Eleven">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Eleven.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Extra 2">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Extra 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Extra">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Extra.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fresh Ideas TV">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Fresh Ideas TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="GEM">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>GEM.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Go!">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Go.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Gold 2">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Gold 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Gold">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Gold.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Television 1">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <Item Name="Television 2">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <Item Name="Television 3">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Goolarri TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="GWN7">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>GWN7.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Hunter Television">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Hunter Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Imparja">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Imparja Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Indigenous Community Television">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Indigenous Community Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="iShopTV">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>iShop TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Larakia TV">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Larrakia TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="LINC TV">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>LINC TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NITV">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>National Indigenous Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NBN Digital">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>NBN TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Ten Digital">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Network Ten.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nine Digital">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Nine Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="One">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>One.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="7">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <Item Name="Prime7">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Prime7.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SBS HD">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>SBS HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SBS One">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <Item Name="SBS Three">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>SBS One.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SBS Two">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>SBS Two.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Seven Network">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Seven Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Snowy Mountains Television">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Snowy Mountains Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="GTS BKN">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <Item Name="SCTV">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <Item Name="SC Nine">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Southern Cross Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SC10">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Southern Cross Ten.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Spree TV">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Spree TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TDT">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Tasmanian Digital Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVS">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Television Sydney.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Ten Mildura">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Ten Mildura.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Tourism TV">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Tourism TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV NT">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>TV NT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV4ME">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>TV4ME.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVSN">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>TVSN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="West TV">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>West TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Westlink">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Westlink.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WIN">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>WIN.png</File>
+    </Channel>
+  </TV>
+  <!-- ******************************************************************** -->
+  <Radio>
+    <Channel>
+      <Item Name="ABC Jazz">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>ABC Jazz.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="AIR Radio">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Australian Indigenous Radio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC World Service">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>BBC World Service.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CBAA">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>CBAA.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Darwin FM">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Darwin FM.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Double J">
+        <Provider />
+      </Item>
+      <File>Double J.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Larakia Radio">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Larrakia Radio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="National Indigenous Radio Service">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>National Indigenous Radio Service.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Radio 1">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <Item Name="Radio 2">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Radio Goolarri 99.7 FM.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="RPH">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>RPH Australia.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SBS Radio 1">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>SBS Radio 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SBS Radio 2">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>SBS Radio 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SBS Radio 3">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>SBS Radio 3.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Triple J">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Triple J.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="3RPH">
+        <Provider>Freeview (Aus)</Provider>
+      </Item>
+      <File>Vision Australia Radio.png</File>
+    </Channel>
+  </Radio>
+  <!-- ******************************************************************** -->
+</Mappings>
