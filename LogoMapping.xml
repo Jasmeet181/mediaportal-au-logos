@@ -27,7 +27,7 @@
       <File>ABC News 24.png</File>
     </Channel>
     <Channel>
-      <Item Name="ABC">
+      <Item Name="ABC1">
         <Provider>Freeview (Aus)</Provider>
       </Item>
       <File>ABC.png</File>
@@ -171,7 +171,7 @@
       <File>Imparja Television.png</File>
     </Channel>
     <Channel>
-      <Item Name="Indigenous Community Television">
+      <Item Name="ICTV">
         <Provider>Freeview (Aus)</Provider>
       </Item>
       <File>Indigenous Community Television.png</File>
@@ -183,7 +183,7 @@
       <File>iShop TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Larakia TV">
+      <Item Name="Larrakia TV">
         <Provider>Freeview (Aus)</Provider>
       </Item>
       <File>Larrakia TV.png</File>
@@ -243,7 +243,7 @@
       <Item Name="SBS One">
         <Provider>Freeview (Aus)</Provider>
       </Item>
-      <Item Name="SBS Three">
+      <Item Name="SBS 3">
         <Provider>Freeview (Aus)</Provider>
       </Item>
       <File>SBS One.png</File>
@@ -255,7 +255,7 @@
       <File>SBS Two.png</File>
     </Channel>
     <Channel>
-      <Item Name="Seven Network">
+      <Item Name="7 Digital">
         <Provider>Freeview (Aus)</Provider>
       </Item>
       <File>Seven Network.png</File>
@@ -285,7 +285,7 @@
       <File>Southern Cross Ten.png</File>
     </Channel>
     <Channel>
-      <Item Name="Spree TV">
+      <Item Name="SpreeTV">
         <Provider>Freeview (Aus)</Provider>
       </Item>
       <File>Spree TV.png</File>
@@ -390,13 +390,13 @@
       <File>Double J.png</File>
     </Channel>
     <Channel>
-      <Item Name="Larakia Radio">
+      <Item Name="Larrakia Radio">
         <Provider>Freeview (Aus)</Provider>
       </Item>
       <File>Larrakia Radio.png</File>
     </Channel>
     <Channel>
-      <Item Name="National Indigenous Radio Service">
+      <Item Name="NIRS">
         <Provider>Freeview (Aus)</Provider>
       </Item>
       <File>National Indigenous Radio Service.png</File>
