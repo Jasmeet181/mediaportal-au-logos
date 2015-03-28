@@ -39,10 +39,10 @@
       <File>ABC2.png</File>
     </Channel>
     <Channel>
-      <Item Name="ABC2 / ABC4">
+      <Item Name="ABC2 / ABC Kids">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <File>ABC2 ABC4.png</File>
+      <File>ABC2 ABC Kids.png</File>
     </Channel>
     <Channel>
       <Item Name="ABC3">
@@ -51,10 +51,10 @@
       <File>ABC3.png</File>
     </Channel>
     <Channel>
-      <Item Name="ABC4Kids">
+      <Item Name="ABC Kids">
         <Provider />
       </Item>
-      <File>ABC4Kids.png</File>
+      <File>ABC Kids.png</File>
     </Channel>
     <Channel>
       <Item Name="Aspire TV">
