@@ -111,12 +111,6 @@
       <File>Extra.png</File>
     </Channel>
     <Channel>
-      <Item Name="Fresh Ideas TV">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>Fresh Ideas TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="GEM">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -232,6 +226,12 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Prime7.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Racing.com">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Racing Live.png</File>
     </Channel>
     <Channel>
       <Item Name="SBS HD">
