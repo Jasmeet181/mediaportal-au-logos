@@ -27,7 +27,7 @@
       <File>ABC News 24.png</File>
     </Channel>
     <Channel>
-      <Item Name="ABC1">
+      <Item Name="ABC">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>ABC.png</File>
@@ -39,7 +39,7 @@
       <File>ABC2.png</File>
     </Channel>
     <Channel>
-      <Item Name="ABC2 / ABC Kids">
+      <Item Name="ABC2/Kids">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>ABC2 ABC Kids.png</File>
@@ -210,6 +210,9 @@
       <Item Name="Nine Digital">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Nine Sydney">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <File>Nine Network.png</File>
     </Channel>
     <Channel>
@@ -256,6 +259,9 @@
     </Channel>
     <Channel>
       <Item Name="7 Digital">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7 Digital 1">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Seven Network.png</File>
