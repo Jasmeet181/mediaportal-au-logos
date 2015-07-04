@@ -252,16 +252,19 @@
       <File>Racing Live.png</File>
     </Channel>
     <Channel>
+      <Item Name="SBS">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SBS One">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>SBS.png</File>
+    </Channel>
+    <Channel>
       <Item Name="SBS HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>SBS HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="SBS One">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>SBS One.png</File>
     </Channel>
     <Channel>
       <Item Name="SBS Two">
