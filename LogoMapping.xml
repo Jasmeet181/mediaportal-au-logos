@@ -30,6 +30,9 @@
       <Item Name="ABC">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="ABC1">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <File>ABC.png</File>
     </Channel>
     <Channel>
@@ -244,9 +247,6 @@
     </Channel>
     <Channel>
       <Item Name="SBS One">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SBS 3">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>SBS One.png</File>
