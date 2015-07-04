@@ -138,16 +138,16 @@
       <File>Gold.png</File>
     </Channel>
     <Channel>
-      <Item Name="Television 1">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="Television 2">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="Television 3">
+      <Item Name="GTV">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Goolarri TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="GTV HD">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Goolarri TV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="GWN7">
@@ -217,6 +217,12 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Nine Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nurlu">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Nurlu.png</File>
     </Channel>
     <Channel>
       <Item Name="One">
