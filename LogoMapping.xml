@@ -60,6 +60,12 @@
       <File>ABC Kids.png</File>
     </Channel>
     <Channel>
+      <Item Name="Aboriginal TV">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Aboriginal TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Aspire TV">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -409,6 +415,12 @@
     </Channel>
     <Channel>
       <Item Name="NIRS">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>National Indigenous Radio Service.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="National Aboriginal Radio">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>National Indigenous Radio Service.png</File>
