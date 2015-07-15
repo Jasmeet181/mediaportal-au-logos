@@ -192,12 +192,6 @@
       <File>Larrakia TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="LINC TV">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>LINC TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="NITV">
         <Provider>Freeview (AU)</Provider>
       </Item>
