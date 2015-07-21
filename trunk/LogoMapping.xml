@@ -228,6 +228,9 @@
       <Item Name="One">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="One Townsville">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <File>One.png</File>
     </Channel>
     <Channel>
@@ -249,7 +252,7 @@
       <Item Name="SBS">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="SBS One">
+      <Item Name="SBS 3">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>SBS.png</File>
@@ -295,6 +298,9 @@
     </Channel>
     <Channel>
       <Item Name="SC10">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Townsville">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Southern Cross Ten.png</File>
