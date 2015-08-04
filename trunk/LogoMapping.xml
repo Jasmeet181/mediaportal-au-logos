@@ -9,6 +9,12 @@
       <File>31 Digital.png</File>
     </Channel>
     <Channel>
+      <Item Name="4ME">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>4ME.png</File>
+    </Channel>
+    <Channel>
       <Item Name="7mate">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -123,10 +129,16 @@
       <Item Name="GEM">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="GEM Townsville">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <File>GEM.png</File>
     </Channel>
     <Channel>
       <Item Name="Go!">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Go! Townsville">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Go.png</File>
@@ -288,6 +300,9 @@
       <Item Name="GTS BKN">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="GTS BKN Port Pirie">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="SCTV">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -300,7 +315,94 @@
       <Item Name="SC10">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="SC10 Albury">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Ballarat">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Bendigo">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Broken Hill">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Bundaberg">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Cairns">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Canberra">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Coffs Harbour">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Dubbo">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Gippsland">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Gold Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Lismore">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Mackay">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Newcastle">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Orange">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Port Augusta">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Port Lincoln">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Port Macquarie">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Port Pirie">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Rockhampton">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Shepparton">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Sunshine Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Tamworth">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Taree">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Toowoomba">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="SC10 Townsville">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Wagga Wagga">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Whyalla">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Wodonga">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Wollongong">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Southern Cross Ten.png</File>
@@ -342,12 +444,6 @@
       <File>TV NT.png</File>
     </Channel>
     <Channel>
-      <Item Name="TV4ME">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>TV4ME.png</File>
-    </Channel>
-    <Channel>
       <Item Name="TVSN">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -367,6 +463,12 @@
     </Channel>
     <Channel>
       <Item Name="WIN">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="WIN Albury">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="WIN Townsville">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>WIN.png</File>
