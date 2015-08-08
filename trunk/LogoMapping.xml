@@ -18,10 +18,16 @@
       <Item Name="7mate">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="7mate Wollongong">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <File>7mate.png</File>
     </Channel>
     <Channel>
       <Item Name="7Two">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7Two Wollongong">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>7Two.png</File>
@@ -252,6 +258,9 @@
       <Item Name="Prime7">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Prime7 Wollongong">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <File>Prime7.png</File>
     </Channel>
     <Channel>
@@ -466,6 +475,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="WIN Albury">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="WIN Illawarra">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="WIN Townsville">
