@@ -180,10 +180,10 @@
       <File>GWN7.png</File>
     </Channel>
     <Channel>
-      <Item Name="Hunter Television">
+      <Item Name="Hunter TV">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <File>Hunter Television.png</File>
+      <File>Hunter TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Imparja">
