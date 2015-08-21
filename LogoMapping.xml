@@ -18,6 +18,9 @@
       <Item Name="7mate">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="7mate Canberra">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="7mate Wollongong">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -25,6 +28,9 @@
     </Channel>
     <Channel>
       <Item Name="7Two">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7Two Canberra">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7Two Wollongong">
@@ -135,6 +141,9 @@
       <Item Name="GEM">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="GEM Canberra">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="GEM Townsville">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -142,6 +151,9 @@
     </Channel>
     <Channel>
       <Item Name="Go!">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Go! Canberra">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Go! Townsville">
@@ -246,6 +258,9 @@
       <Item Name="One">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="One Canberra">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="One Townsville">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -256,6 +271,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Prime7">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Prime7 Canberra">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Prime7 Wollongong">
