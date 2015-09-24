@@ -18,6 +18,9 @@
       <Item Name="7mate">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="7mate Ballarat">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="7mate Canberra">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -28,6 +31,9 @@
     </Channel>
     <Channel>
       <Item Name="7Two">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7Two Ballarat">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7Two Canberra">
@@ -126,6 +132,12 @@
       <File>Eleven.png</File>
     </Channel>
     <Channel>
+      <Item Name="Expo Channel">
+        <Provider>Optus C1</Provider>
+      </Item>
+      <File>Expo Channel.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Extra 2">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -144,7 +156,13 @@
       <Item Name="GEM Canberra">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="GEM Launceston">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="GEM Townsville">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="GEM Western Vic">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>GEM.png</File>
@@ -156,7 +174,13 @@
       <Item Name="Go! Canberra">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Go! Launceston">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Go! Townsville">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Go! Western Vic">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Go.png</File>
@@ -258,7 +282,13 @@
       <Item Name="One">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="One Ballarat">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="One Canberra">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="One Launceston">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="One Townsville">
@@ -273,7 +303,13 @@
       <Item Name="Prime7">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Prime7 Ballarat">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Prime7 Canberra">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Prime7 Launceston">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Prime7 Wollongong">
@@ -292,6 +328,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="SBS 3">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SBS One">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>SBS.png</File>
@@ -373,6 +412,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="SC10 Gold Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Launceston">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="SC10 Lismore">
@@ -495,10 +537,16 @@
       <Item Name="WIN Albury">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="WIN Canberra">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="WIN Illawarra">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="WIN Townsville">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="WIN Western Vic">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>WIN.png</File>
@@ -556,7 +604,7 @@
     </Channel>
     <Channel>
       <Item Name="National Aboriginal Radio">
-        <Provider>Freeview (AU)</Provider>
+        <Provider>VAST</Provider>
       </Item>
       <File>National Indigenous Radio Service.png</File>
     </Channel>
@@ -604,6 +652,12 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Vision Australia Radio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="UCB">
+        <Provider>Optus C1</Provider>
+      </Item>
+      <File>Vision Christian Radio.png</File>
     </Channel>
   </Radio>
   <!-- ******************************************************************** -->
