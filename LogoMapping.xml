@@ -45,6 +45,48 @@
       <File>7Two.png</File>
     </Channel>
     <Channel>
+      <Item Name="9Gem">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Gem Canberra">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Gem Launceston">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Gem Townsville">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Gem Western Vic">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>9Gem.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="9Go!">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Go! Canberra">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Go! Launceston">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Go! Townsville">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Go! Western Vic">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>9Go.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="9Life">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>9Life.png</File>
+    </Channel>
+    <Channel>
       <Item Name="ABC News 24">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -150,40 +192,10 @@
       <File>Extra.png</File>
     </Channel>
     <Channel>
-      <Item Name="GEM">
+      <Item Name="Food Network">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="GEM Canberra">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="GEM Launceston">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="GEM Townsville">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="GEM Western Vic">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>GEM.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Go!">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="Go! Canberra">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="Go! Launceston">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="Go! Townsville">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="Go! Western Vic">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>Go.png</File>
+      <File>Food Network Australia.png</File>
     </Channel>
     <Channel>
       <Item Name="Gold 2">
@@ -264,6 +276,9 @@
       <File>Network Ten.png</File>
     </Channel>
     <Channel>
+      <Item Name="Nine Brisbane">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Nine Digital">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -271,6 +286,12 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Nine Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nine HD">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Nine Network HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Nurlu">
@@ -321,16 +342,10 @@
       <Item Name="Racing.com">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <File>Racing Live.png</File>
+      <File>Racing.com.png</File>
     </Channel>
     <Channel>
       <Item Name="SBS">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SBS 3">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SBS One">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>SBS.png</File>
