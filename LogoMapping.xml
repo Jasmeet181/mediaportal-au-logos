@@ -15,6 +15,12 @@
       <File>4ME.png</File>
     </Channel>
     <Channel>
+      <Item Name="7flix">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>7flix.png</File>
+    </Channel>
+    <Channel>
       <Item Name="7mate">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -22,6 +28,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7mate Canberra">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7mate Gold Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7mate Wollongong">
@@ -37,6 +46,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7Two Canberra">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7Two Gold Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7Two Wollongong">
@@ -267,6 +279,9 @@
       <Item Name="NBN Digital">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="NBN Gold Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <File>NBN TV.png</File>
     </Channel>
     <Channel>
@@ -288,6 +303,9 @@
       <File>Nine Network.png</File>
     </Channel>
     <Channel>
+      <Item Name="9HD Gold Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Nine HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -328,6 +346,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Prime7 Canberra">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7mate Gold Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Prime7 Launceston">
