@@ -587,6 +587,12 @@
       </Item>
       <File>WIN.png</File>
     </Channel>
+    <Channel>
+      <Item Name="WIN HD">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>WIN HD.png</File>
+    </Channel>
   </TV>
   <!-- ******************************************************************** -->
   <Radio>
