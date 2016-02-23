@@ -399,6 +399,15 @@
       <File>Seven.png</File>
     </Channel>
     <Channel>
+      <Item Name="7 HD">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="New Channel">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Seven HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="SMTV">
         <Provider>Freeview (AU)</Provider>
       </Item>
