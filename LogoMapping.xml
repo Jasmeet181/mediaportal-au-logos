@@ -63,7 +63,13 @@
       <Item Name="9Gem Canberra">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9Gem Darling Downs">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9Gem Launceston">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Gem Shepparton">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9Gem Townsville">
@@ -285,12 +291,6 @@
       <File>NBN TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Ten Digital">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>Network Ten.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Nine Brisbane">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -300,16 +300,19 @@
       <Item Name="Nine Sydney">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <File>Nine Network.png</File>
+      <File>Nine.png</File>
     </Channel>
     <Channel>
       <Item Name="9HD Gold Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9HD Sydney">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Nine HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <File>Nine Network HD.png</File>
+      <File>Nine HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Nurlu">
@@ -390,7 +393,10 @@
       <Item Name="7 Digital 1">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <File>Seven Network.png</File>
+      <Item Name="7 Toowoomba">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Seven.png</File>
     </Channel>
     <Channel>
       <Item Name="SMTV">
@@ -525,6 +531,18 @@
       <File>Tasmanian Digital Television.png</File>
     </Channel>
     <Channel>
+      <Item Name="Ten Digital">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Ten.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Ten HD">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Ten HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="TVS">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -574,6 +592,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="WIN Canberra">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="WIN Darling Downs">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="WIN Illawarra">
