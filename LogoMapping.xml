@@ -105,6 +105,15 @@
       <File>9Life.png</File>
     </Channel>
     <Channel>
+      <Item Name="9NBN">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9NBN Gold Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>9NBN.png</File>
+    </Channel>
+    <Channel>
       <Item Name="ABC News 24">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -280,15 +289,6 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>National Indigenous Television.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="NBN Digital">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="NBN Gold Coast">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>NBN TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Nine Brisbane">
