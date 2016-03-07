@@ -213,12 +213,6 @@
       <File>Food Network Australia.png</File>
     </Channel>
     <Channel>
-      <Item Name="Gold 2">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>Gold 2.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Gold">
         <Provider>Freeview (AU)</Provider>
       </Item>
