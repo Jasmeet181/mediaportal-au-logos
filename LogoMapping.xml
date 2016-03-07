@@ -114,9 +114,6 @@
       <Item Name="ABC">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="ABC1">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
       <File>ABC.png</File>
     </Channel>
     <Channel>
@@ -297,6 +294,9 @@
       <File>NBN TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Channel 9 Adelaide">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Nine Brisbane">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -309,6 +309,9 @@
       <File>Nine.png</File>
     </Channel>
     <Channel>
+      <Item Name="9HD Adelaide">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9HD Gold Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -357,7 +360,7 @@
       <Item Name="Prime7 Canberra">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="7mate Gold Coast">
+      <Item Name="Prime7 Gold Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Prime7 Launceston">
@@ -664,7 +667,7 @@
     </Channel>
     <Channel>
       <Item Name="Double J">
-        <Provider />
+        <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Double J.png</File>
     </Channel>
