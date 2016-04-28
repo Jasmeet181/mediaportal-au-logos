@@ -309,6 +309,9 @@
       <Item Name="9HD Gold Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9HD Perth">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9HD Sydney">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -400,15 +403,6 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Seven.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="7 HD">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="New Channel">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>Seven HD.png</File>
     </Channel>
     <Channel>
       <Item Name="SMTV">
