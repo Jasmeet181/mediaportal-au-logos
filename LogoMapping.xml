@@ -39,6 +39,12 @@
       <File>7mate.png</File>
     </Channel>
     <Channel>
+      <Item Name="7mate HD">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>7mate HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="7Two">
         <Provider>Freeview (AU)</Provider>
       </Item>
