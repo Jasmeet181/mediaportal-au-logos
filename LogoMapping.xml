@@ -201,12 +201,6 @@
       <File>Expo Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Extra 2">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>Extra 2.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Extra">
         <Provider>Freeview (AU)</Provider>
       </Item>
