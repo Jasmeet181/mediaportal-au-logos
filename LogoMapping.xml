@@ -297,6 +297,9 @@
       <Item Name="Channel 9 Adelaide">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Channel 9 Brisbane">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Nine Brisbane">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -304,6 +307,105 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Nine Sydney">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Albury">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Ballarat">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Bendigo">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Broken Hill">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Bundaberg">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Cairns">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Canberra">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Coffs Harbour">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Dubbo">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Gippsland">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Gold Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Launceston">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Lismore">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Mackay">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Newcastle">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Orange">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Port Augusta">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Port Lincoln">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Port Macquarie">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Port Pirie">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Rockhampton">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Shepparton">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Sunshine Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Tamworth">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Taree">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Toowoomba">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Townsville">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Wagga Wagga">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Whyalla">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC9 Wodonga">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Wollongong">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="TDT">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Nine.png</File>
@@ -399,6 +501,9 @@
       <File>SBS Two.png</File>
     </Channel>
     <Channel>
+      <Item Name="7 Brisbane">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="7 Digital">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -438,117 +543,15 @@
       <File>Southern Cross Television.png</File>
     </Channel>
     <Channel>
-      <Item Name="SC10">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Albury">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Ballarat">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Bendigo">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Broken Hill">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Bundaberg">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Cairns">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Canberra">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Coffs Harbour">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Dubbo">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Gippsland">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Gold Coast">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Launceston">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Lismore">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Mackay">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Newcastle">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Orange">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Port Augusta">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Port Lincoln">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Port Macquarie">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Port Pirie">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Rockhampton">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Shepparton">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Sunshine Coast">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Tamworth">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Taree">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Toowoomba">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Townsville">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Wagga Wagga">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Whyalla">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Wodonga">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Wollongong">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>Southern Cross Ten.png</File>
-    </Channel>
-    <Channel>
       <Item Name="SpreeTV">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Spree TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="TDT">
+      <Item Name="Ten Brisbane">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <File>Tasmanian Digital Television.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Ten Digital">
         <Provider>Freeview (AU)</Provider>
       </Item>
