@@ -33,6 +33,9 @@
       <Item Name="7mate Gold Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="7mate Mackay">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="7mate Wollongong">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -57,6 +60,9 @@
       <Item Name="7Two Gold Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="7Two Mackay">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="7Two Wollongong">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -73,6 +79,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9Gem Launceston">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Gem Mackay">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9Gem Shepparton">
@@ -94,6 +103,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9Go! Launceston">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Go! Mackay">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9Go! Townsville">
@@ -300,6 +312,9 @@
       <Item Name="Nine Digital">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Nine Mackay">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Nine Sydney">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -396,7 +411,7 @@
       <Item Name="SC9 Wodonga">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="SC10 Wollongong">
+      <Item Name="SC9 Wollongong">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="TDT">
@@ -409,6 +424,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9HD Gold Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9HD Mackay">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9HD Perth">
@@ -502,6 +520,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7 Digital 1">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7 Mackay">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7 Toowoomba">
@@ -615,6 +636,9 @@
       <Item Name="WIN Illawarra">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="WIN Mackay">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="WIN Townsville">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -625,6 +649,9 @@
     </Channel>
     <Channel>
       <Item Name="WIN HD">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="WIN Mackay HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>WIN HD.png</File>
