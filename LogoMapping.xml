@@ -189,6 +189,12 @@
       <File>Channel 44.png</File>
     </Channel>
     <Channel>
+      <Item Name="Darwin TV">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Darwin TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="DDT">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -595,12 +601,6 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Tourism TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="TV NT">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>TV NT.png</File>
     </Channel>
     <Channel>
       <Item Name="TVSN">
