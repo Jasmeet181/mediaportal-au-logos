@@ -297,25 +297,13 @@
       <File>National Indigenous Television.png</File>
     </Channel>
     <Channel>
-      <Item Name="NBN HD">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>NBN HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="NBN Digital">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="NBN Gold Coast">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>NBN TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Channel 9 Adelaide">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Channel 9 Brisbane">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="NBN Gold Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Nine Brisbane">
