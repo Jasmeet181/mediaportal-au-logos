@@ -68,13 +68,10 @@
       </Item>
       <Item Name="7Two Mackay">
         <Provider>Freeview (AU)</Provider>
+      </Item>     
+      <Item Name="7Two Sydney">
+        <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="7TWO Mackay">
-        <Provider>Freeview (AU)</Provider>
-      </Item>      
-      <Item Name="7two Sydney">
-        <Provider>Freeview (AU)</Provider>
-      </Item>	    
       <Item Name="7Two Wollongong">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -519,6 +516,9 @@
       <Item Name="SBS">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="SBS One">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <File>SBS.png</File>
     </Channel>
     <Channel>
@@ -533,15 +533,6 @@
       </Item>
       <File>SBS Two.png</File>
     </Channel>
-    <Channel>
-      <Item Name="SBS One">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SBS ONE">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>SBS One.png</File>
-    </Channel>    
     <Channel>
       <Item Name="7 Brisbane">
         <Provider>Freeview (AU)</Provider>
