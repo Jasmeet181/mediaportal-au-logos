@@ -534,6 +534,12 @@
       <File>SBS Two.png</File>
     </Channel>
     <Channel>
+      <Item Name="SBS Viceland">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>SBS Viceland.png</File>
+    </Channel>
+    <Channel>
       <Item Name="7 Brisbane">
         <Provider>Freeview (AU)</Provider>
       </Item>
