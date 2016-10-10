@@ -181,7 +181,7 @@
     </Channel>
     <Channel>
       <Item Name="Aboriginal TV">
-        <Provider>Freeview (AU)</Provider>
+        <Provider>Terrestrial (AU)</Provider>
       </Item>
       <File>Aboriginal TV.png</File>
     </Channel>
@@ -211,7 +211,7 @@
     </Channel>
     <Channel>
       <Item Name="Darwin TV">
-        <Provider>Freeview (AU)</Provider>
+        <Provider>Terrestrial (AU)</Provider>
       </Item>
       <File>Darwin TV.png</File>
     </Channel>
@@ -223,7 +223,7 @@
     </Channel>
     <Channel>
       <Item Name="Education TV">
-        <Provider>Freeview (AU)</Provider>
+        <Provider>Terrestrial (AU)</Provider>
       </Item>
       <File>Education TV.png</File>
     </Channel>
@@ -259,13 +259,13 @@
     </Channel>
     <Channel>
       <Item Name="GTV">
-        <Provider>Freeview (AU)</Provider>
+        <Provider>Terrestrial (AU)</Provider>
       </Item>
       <File>Goolarri TV.png</File>
     </Channel>
     <Channel>
       <Item Name="GTV HD">
-        <Provider>Freeview (AU)</Provider>
+        <Provider>Terrestrial (AU)</Provider>
       </Item>
       <File>Goolarri TV HD.png</File>
     </Channel>
@@ -289,7 +289,7 @@
     </Channel>
     <Channel>
       <Item Name="ICTV">
-        <Provider>Freeview (AU)</Provider>
+        <Provider>VAST</Provider>
       </Item>
       <File>Indigenous Community Television.png</File>
     </Channel>
@@ -300,16 +300,16 @@
       <File>iShop TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Larrakia TV">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>Larrakia TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="NITV">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>National Indigenous Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NgardaTV34">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Ngarda TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel 9 Adelaide">
@@ -331,6 +331,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Nine Mackay">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Nine Melbourne">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Nine Sydney">
@@ -460,7 +463,7 @@
     </Channel>
     <Channel>
       <Item Name="Nurlu">
-        <Provider>Freeview (AU)</Provider>
+        <Provider>Terrestrial (AU)</Provider>
       </Item>
       <File>Nurlu.png</File>
     </Channel>
@@ -622,7 +625,7 @@
     </Channel>
     <Channel>
       <Item Name="Tourism TV">
-        <Provider>Freeview (AU)</Provider>
+        <Provider>Terrestrial (AU)</Provider>
       </Item>
       <File>Tourism TV.png</File>
     </Channel>
@@ -640,7 +643,7 @@
     </Channel>
     <Channel>
       <Item Name="Westlink">
-        <Provider>Freeview (AU)</Provider>
+        <Provider>VAST</Provider>
       </Item>
       <File>Westlink.png</File>
     </Channel>
@@ -690,26 +693,27 @@
       <File>ABC Jazz.png</File>
     </Channel>
     <Channel>
-      <Item Name="AIR Radio">
-        <Provider>Freeview (AU)</Provider>
+      <Item Name="Aboriginal Radio">
+        <Provider>Terrestrial (AU)</Provider>
+        <Provider>VAST</Provider>
       </Item>
-      <File>Australian Indigenous Radio.png</File>
+      <File>Aboriginal Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC World Service">
-        <Provider>Freeview (AU)</Provider>
+        <Provider>VAST</Provider>
       </Item>
       <File>BBC World Service.png</File>
     </Channel>
     <Channel>
       <Item Name="CBAA">
-        <Provider>Freeview (AU)</Provider>
+        <Provider>VAST</Provider>
       </Item>
       <File>CBAA.png</File>
     </Channel>
     <Channel>
       <Item Name="Darwin FM">
-        <Provider>Freeview (AU)</Provider>
+        <Provider>Terrestrial (AU)</Provider>
       </Item>
       <File>Darwin FM.png</File>
     </Channel>
@@ -721,7 +725,7 @@
     </Channel>
     <Channel>
       <Item Name="Larrakia Radio">
-        <Provider>Freeview (AU)</Provider>
+        <Provider>Terrestrial (AU)</Provider>
       </Item>
       <File>Larrakia Radio.png</File>
     </Channel>
@@ -738,17 +742,14 @@
       <File>National Indigenous Radio Service.png</File>
     </Channel>
     <Channel>
-      <Item Name="Radio 1">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="Radio 2">
-        <Provider>Freeview (AU)</Provider>
+      <Item Name="Radio Goolarri">
+        <Provider>Terrestrial (AU)</Provider>
       </Item>
       <File>Radio Goolarri 99.7 FM.png</File>
     </Channel>
     <Channel>
       <Item Name="RPH">
-        <Provider>Freeview (AU)</Provider>
+        <Provider>VAST</Provider>
       </Item>
       <File>RPH Australia.png</File>
     </Channel>
@@ -778,7 +779,7 @@
     </Channel>
     <Channel>
       <Item Name="3RPH">
-        <Provider>Freeview (AU)</Provider>
+        <Provider>VAST</Provider>
       </Item>
       <File>Vision Australia Radio.png</File>
     </Channel>
