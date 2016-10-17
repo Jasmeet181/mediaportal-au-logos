@@ -567,11 +567,14 @@
       <Item Name="7HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="7HD Brisbane">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <File>Seven HD.png</File>
     </Channel>
     <Channel>
       <Item Name="SMTV">
-        <Provider>Freeview (AU)</Provider>
+        <Provider>Terrestrial (AU)</Provider>
       </Item>
       <File>Snowy Mountains Television.png</File>
     </Channel>
@@ -695,7 +698,6 @@
     <Channel>
       <Item Name="Aboriginal Radio">
         <Provider>Terrestrial (AU)</Provider>
-        <Provider>VAST</Provider>
       </Item>
       <File>Aboriginal Radio.png</File>
     </Channel>
