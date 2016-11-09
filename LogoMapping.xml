@@ -9,12 +9,6 @@
       <File>31 Digital.png</File>
     </Channel>
     <Channel>
-      <Item Name="4ME">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>4ME.png</File>
-    </Channel>
-    <Channel>
       <Item Name="7flix">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -37,6 +31,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7mate Mackay">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7mate Mildura">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7mate Sydney">
@@ -93,6 +90,9 @@
       <Item Name="9Gem Mackay">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9Gem Mildura">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9Gem Shepparton">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -118,6 +118,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9Go! Mackay">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Go! Mildura">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9Go! Sydney">
@@ -150,28 +153,10 @@
       <File>ABC.png</File>
     </Channel>
     <Channel>
-      <Item Name="ABC2">
-	  <Provider />
-      </Item>
-      <File>ABC2.png</File>
-    </Channel>
-    <Channel>
       <Item Name="ABC2/Kids">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>ABC2 ABC Kids.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="ABC3">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>ABC3.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="ABC Kids">
-        <Provider />
-      </Item>
-      <File>ABC Kids.png</File>
     </Channel>
     <Channel>
       <Item Name="ABC Me">
@@ -274,12 +259,6 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>GWN7.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Hunter TV">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>Hunter TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Imparja">
@@ -480,6 +459,9 @@
       <Item Name="One Launceston">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="One Mildura">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="One Townsville">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -502,6 +484,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Prime7 Launceston">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Prime7 Mildura">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Prime7 Wollongong">
@@ -579,16 +564,19 @@
       <File>Snowy Mountains Television.png</File>
     </Channel>
     <Channel>
-      <Item Name="GTS BKN">
+      <Item Name="GTS BKN Broken Hill">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="GTS BKN Port Pirie">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="SCTV">
+      <Item Name="SCTV Central">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="SC Nine">
+      <Item Name="SCTV Darwin">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SCTV Tasmania">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Southern Cross Television.png</File>
@@ -600,6 +588,9 @@
       <File>Spree TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="NRN">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Ten Brisbane">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -613,18 +604,6 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Ten HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="TVS">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>Television Sydney.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Ten Mildura">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>Ten Mildura.png</File>
     </Channel>
     <Channel>
       <Item Name="Tourism TV">
@@ -669,6 +648,9 @@
       <Item Name="WIN Mackay">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="WIN Mildura">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="WIN Townsville">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -698,6 +680,9 @@
     <Channel>
       <Item Name="Aboriginal Radio">
         <Provider>Terrestrial (AU)</Provider>
+      </Item>
+      <Item Name="National Aboriginal Radio">
+        <Provider>VAST</Provider>
       </Item>
       <File>Aboriginal Radio.png</File>
     </Channel>
@@ -734,12 +719,6 @@
     <Channel>
       <Item Name="NIRS">
         <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>National Indigenous Radio Service.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="National Aboriginal Radio">
-        <Provider>VAST</Provider>
       </Item>
       <File>National Indigenous Radio Service.png</File>
     </Channel>
