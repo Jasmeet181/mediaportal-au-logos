@@ -54,6 +54,9 @@
       <Item Name="7mate Brisbane">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="7mate Broken Hill">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="7mate Canberra">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -63,7 +66,16 @@
       <Item Name="7mate Coffs Harbour">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="7mate Darwin">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="7mate Gold Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7mate Hobart">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7mate Launceston">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7mate Lismore">
@@ -85,6 +97,12 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7mate Perth">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7mate Port Lincoln">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7mate Port Pirie">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7mate Shepparton">
@@ -135,6 +153,9 @@
       <Item Name="7Two Brisbane">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="7Two Broken Hill">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="7Two Canberra">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -144,7 +165,16 @@
       <Item Name="7Two Coffs Harbour">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="7Two Darwin">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="7Two Gold Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7Two Hobart">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7Two Launceston">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7Two Lismore">
@@ -163,6 +193,12 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7Two Perth">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7Two Port Lincoln">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7Two Port Pirie">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7Two Shepparton">
@@ -195,7 +231,19 @@
       <Item Name="9Gem Albury">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9Gem Ballarat">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9Gem Bendigo">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Gem Broken Hill">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Gem Bundaberg">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Gem Cairns">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9Gem Canberra">
@@ -207,7 +255,13 @@
       <Item Name="9Gem Darling Downs">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9Gem Dubbo">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9Gem Far North Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Gem Gippsland">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9Gem Hobart">
@@ -234,6 +288,18 @@
       <Item Name="9Gem Orange">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9Gem Port Augusta">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Gem Port Lincoln">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Gem Port Pirie">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Gem Rockhampton">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9Gem Shepparton">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -243,10 +309,25 @@
       <Item Name="9Gem Sydney">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9Gem Toowoomba">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9Gem Townsville">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9Gem Wagga Wagga">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9Gem Western Vic">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Gem Whyalla">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Gem Wodonga">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Gem Wollongong">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>9Gem.png</File>
@@ -258,7 +339,19 @@
       <Item Name="9Go! Albury">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9Go! Ballarat">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9Go! Bendigo">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Go! Broken Hill">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Go! Bundaberg">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Go! Cairns">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9Go! Canberra">
@@ -267,7 +360,13 @@
       <Item Name="9Go! Central Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9Go! Dubbo">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9Go! Far North Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Go! Gippsland">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9Go! Gold Coast">
@@ -300,16 +399,46 @@
       <Item Name="9Go! Orange">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9Go! Port Augusta">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Go! Port Lincoln">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Go! Port Pirie">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Go! Rockhampton">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Go! Shepparton">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9Go! Sunshine Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9Go! Sydney">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9Go! Toowoomba">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9Go! Townsville">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9Go! Wagga Wagga">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9Go! Western Vic">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Go! Whyalla">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Go! Wodonga">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Go! Wollongong">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>9Go.png</File>
@@ -318,13 +447,49 @@
       <Item Name="9Life">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9Life Albury">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Life Ballarat">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Life Bendigo">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Life Broken Hill">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Life Bundaberg">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Life Cairns">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Life Canberra">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9Life Central Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9Life Far North Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9Life Dubbo">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Life Gippsland">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9Life Gold Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Life Hobart">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Life Launceston">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Life Mackay">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9Life Mid North Coast">
@@ -336,6 +501,45 @@
       <Item Name="9Life Newcastle">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9Life Orange">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Life Port Augusta">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Life Port Lincoln">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Life Port Pirie">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Life Rockhampton">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Life Shepparton">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Life Sunshine Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Life Toowoomba">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Life Townsville">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Life Wagga Wagga">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Life Whyalla">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Life Wodonga">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Life Wollongong">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <File>9Life.png</File>
     </Channel>
     <Channel>
@@ -343,6 +547,12 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>ABC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ABC HD">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>ABC HD.png</File>
     </Channel>
     <Channel>
       <Item Name="ABC Me">
@@ -414,19 +624,58 @@
       <Item Name="Eleven">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Eleven Broken Hill">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Eleven Coffs Harbour">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Eleven Darling Downs">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Eleven Darwin">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Eleven Gippsland">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Eleven Gold Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Eleven Lismore">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Eleven Newcastle">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Eleven Port Augusta">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Eleven Port Lincoln">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Eleven Port Macquarie">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Eleven Port Pirie">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Eleven Shepparton">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Eleven Tamworth">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Eleven Taree">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Eleven Townsville">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Eleven Western Vic">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Eleven Whyalla">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Eleven.png</File>
@@ -753,6 +1002,9 @@
       <Item Name="One Bendigo">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="One Broken Hill">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="One Canberra">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -760,6 +1012,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="One Darling Downs">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="One Darwin">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="One Gippsland">
@@ -783,6 +1038,18 @@
       <Item Name="One Orange">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="One Port Augusta">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="One Port Lincoln">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="One Port Macquarie">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="One Port Pirie">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="One Shepparton">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -792,6 +1059,9 @@
       <Item Name="One Tamworth">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="One Taree">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="One Tasmania">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -799,6 +1069,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="One Western Vic">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="One Whyalla">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="One Wollongong">
@@ -969,7 +1242,10 @@
       <Item Name="GTS BKN Port Pirie">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="SCTV Central">
+      <File>Southern Cross GTS BKN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SCTV Alice Springs">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="SCTV Darwin">
@@ -978,10 +1254,64 @@
       <Item Name="SCTV Hobart">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="SCTV Tasmania">
+      <Item Name="SCTV Launceston">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SCTV Mt Isa">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SCTV Port Augusta">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SCTV Port Lincoln">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SCTV Roma">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SCTV Whyalla">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Southern Cross Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SC10 Broken Hill">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Coffs Harbour">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Gold Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Lismore">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Newcastle">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Port Augusta">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Port Lincoln">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Port Macquarie">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Port Pirie">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Tamworth">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Taree">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SC10 Whyalla">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Southern Cross Ten.png</File>
     </Channel>
     <Channel>
       <Item Name="SpreeTV">
@@ -990,9 +1320,6 @@
       <File>Spree TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="NRN">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
       <Item Name="Ten Brisbane">
         <Provider>Freeview (AU)</Provider>
       </Item>
