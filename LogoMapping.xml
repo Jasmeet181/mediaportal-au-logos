@@ -1337,6 +1337,9 @@
       <Item Name="Ten HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Ten HD Coffs Harbour">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Ten HD Gold Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1344,6 +1347,12 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Ten HD Newcastle">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Ten HD Tamworth">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Ten HD Taree">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Ten HD.png</File>
