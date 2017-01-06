@@ -15,6 +15,9 @@
       <Item Name="7flix Brisbane">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="7flix Cairns">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="7flix Gold Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -55,6 +58,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7mate Broken Hill">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7mate Cairns">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7mate Canberra">
@@ -157,6 +163,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7Two Broken Hill">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7Two Cairns">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7Two Canberra">
@@ -633,6 +642,9 @@
       <Item Name="Eleven Broken Hill">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Eleven Cairns">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Eleven Coffs Harbour">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -795,6 +807,9 @@
       <Item Name="Nine Brisbane">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Nine Cairns">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Nine Digital">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -814,6 +829,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Nine Newcastle">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Nine Orange">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Nine Shepparton">
@@ -858,6 +876,9 @@
       <Item Name="9HD Brisbane">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9HD Cairns">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9HD Central Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -880,6 +901,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9HD Newcastle">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9HD Orange">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9HD Perth">
@@ -922,6 +946,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="One Broken Hill">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="One Cairns">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="One Canberra">
@@ -1093,6 +1120,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7 Brisbane">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7 Cairns">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7 Digital">
@@ -1409,6 +1439,9 @@
       <Item Name="WIN Bendigo">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="WIN Cairns">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="WIN Canberra">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1457,6 +1490,9 @@
       <Item Name="WIN Bendigo HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="WIN Cairns HD">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="WIN Darling Downs HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1470,6 +1506,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="WIN Mackay HD">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="WIN Orange HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="WIN Shepparton HD">
