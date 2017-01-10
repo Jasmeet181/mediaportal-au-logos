@@ -36,6 +36,9 @@
       <Item Name="7flix Townsville">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="7flix Wide Bay">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <File>7flix.png</File>
     </Channel>
     <Channel>
@@ -130,6 +133,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7mate Traralgon">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7mate Wide Bay">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7mate Wollongong">
@@ -232,6 +238,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7Two Traralgon">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7Two Wide Bay">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7Two Wollongong">
@@ -699,6 +708,9 @@
       <Item Name="Eleven Whyalla">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Eleven Wide Bay">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <File>Eleven.png</File>
     </Channel>
     <Channel>
@@ -849,6 +861,9 @@
       <Item Name="Nine Townsville">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Nine Wide Bay">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Nine-NBN Central Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -922,6 +937,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9HD Townsville">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9HD Wide Bay">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Nine HD.png</File>
@@ -1021,6 +1039,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="One Whyalla">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="One Wide Bay">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="One Wollongong">
@@ -1153,6 +1174,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7 Townsville">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7 Wide Bay">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Seven.png</File>
@@ -1484,6 +1508,9 @@
       <Item Name="WIN Western Vic">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="WIN Wide Bay">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <File>WIN.png</File>
     </Channel>
     <Channel>
@@ -1524,6 +1551,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="WIN Western Vic HD">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="WIN Wide Bay HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>WIN HD.png</File>
