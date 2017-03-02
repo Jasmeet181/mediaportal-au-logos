@@ -3,12 +3,6 @@
   <!-- ******************************************************************** -->
   <TV>
     <Channel>
-      <Item Name="31 Digital">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>31 Digital.png</File>
-    </Channel>
-    <Channel>
       <Item Name="7flix">
         <Provider>Freeview (AU)</Provider>
       </Item>
