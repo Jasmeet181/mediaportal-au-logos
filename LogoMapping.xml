@@ -1638,6 +1638,12 @@
       <File>RPH Australia.png</File>
     </Channel>
     <Channel>
+      <Item Name="SBS Arabic24">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>SBS Arabic24.png</File>
+    </Channel>
+    <Channel>
       <Item Name="SBS Radio 1">
         <Provider>Freeview (AU)</Provider>
       </Item>
