@@ -1212,6 +1212,9 @@
       <Item Name="SBS HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="SBS One HD">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <File>SBS HD.png</File>
     </Channel>
     <Channel>
@@ -1638,6 +1641,9 @@
       <File>RPH Australia.png</File>
     </Channel>
     <Channel>
+      <Item Name="Arabic 24">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="SBS Arabic24">
         <Provider>Freeview (AU)</Provider>
       </Item>
