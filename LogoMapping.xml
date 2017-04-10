@@ -282,6 +282,9 @@
       <Item Name="9Gem Gippsland">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9Gem Gold Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9Gem Hobart">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -582,7 +585,7 @@
       <Item Name="ABC News 24">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <File>ABC News 24.png</File>
+      <File>ABC News.png</File>
     </Channel>
     <Channel>
       <Item Name="ABC2/Kids">
@@ -912,9 +915,6 @@
       <Item Name="SC9 Mackay">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="SC9 Newcastle">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
       <Item Name="SC9 Orange">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -963,6 +963,9 @@
       <Item Name="SC9 Wollongong">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="TDT">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <File>Nine.png</File>
     </Channel>
     <Channel>
@@ -996,6 +999,9 @@
       <Item Name="9HD Mackay">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9HD Melbourne">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9HD Mid North Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1027,6 +1033,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9HD Wide Bay">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="TDT HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Nine HD.png</File>
@@ -1200,18 +1209,12 @@
       <File>Racing.com.png</File>
     </Channel>
     <Channel>
-      <Item Name="SBS">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
       <Item Name="SBS One">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>SBS.png</File>
     </Channel>
     <Channel>
-      <Item Name="SBS HD">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
       <Item Name="SBS One HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1222,6 +1225,12 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>SBS Viceland.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SBS Viceland HD">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>SBS Viceland HD.png</File>
     </Channel>
     <Channel>
       <Item Name="7">
@@ -1362,9 +1371,6 @@
       <Item Name="SC10 Lismore">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="SC10 Newcastle">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
       <Item Name="SC10 Port Augusta">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1395,22 +1401,13 @@
       <File>Spree TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="TDT">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>TDT.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="TDT HD">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>TDT HD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Ten Brisbane">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Ten Digital">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Ten Gold Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Ten Lismore">
@@ -1641,9 +1638,6 @@
       <File>RPH Australia.png</File>
     </Channel>
     <Channel>
-      <Item Name="Arabic 24">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
       <Item Name="SBS Arabic24">
         <Provider>Freeview (AU)</Provider>
       </Item>
