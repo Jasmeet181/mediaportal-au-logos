@@ -759,12 +759,6 @@
       <File>Imparja Television.png</File>
     </Channel>
     <Channel>
-      <Item Name="ICTV">
-        <Provider>VAST</Provider>
-      </Item>
-      <File>Indigenous Community Television.png</File>
-    </Channel>
-    <Channel>
       <Item Name="iShopTV">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1461,12 +1455,6 @@
       <File>West TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Westlink">
-        <Provider>VAST</Provider>
-      </Item>
-      <File>Westlink.png</File>
-    </Channel>
-    <Channel>
       <Item Name="WIN">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1581,27 +1569,6 @@
       <File>ABC Jazz.png</File>
     </Channel>
     <Channel>
-      <Item Name="Aboriginal Radio">
-        <Provider>Terrestrial (AU)</Provider>
-      </Item>
-      <Item Name="National Aboriginal Radio">
-        <Provider>VAST</Provider>
-      </Item>
-      <File>Aboriginal Radio.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC World Service">
-        <Provider>VAST</Provider>
-      </Item>
-      <File>BBC World Service.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="CBAA">
-        <Provider>VAST</Provider>
-      </Item>
-      <File>CBAA.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Darwin FM">
         <Provider>Terrestrial (AU)</Provider>
       </Item>
@@ -1620,22 +1587,22 @@
       <File>Larrakia Radio.png</File>
     </Channel>
     <Channel>
-      <Item Name="NIRS">
-        <Provider>Freeview (AU)</Provider>
+      <Item Name="National Aboriginal Radio">
+        <Provider>Terrestrial (AU)</Provider>
       </Item>
-      <File>National Indigenous Radio Service.png</File>
+      <File>National Aboriginal Radio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Palmerston FM">
+        <Provider>Terrestrial (AU)</Provider>
+      </Item>
+      <File>Palmerston FM.png</File>
     </Channel>
     <Channel>
       <Item Name="Radio Goolarri">
         <Provider>Terrestrial (AU)</Provider>
       </Item>
       <File>Radio Goolarri 99.7 FM.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="RPH">
-        <Provider>VAST</Provider>
-      </Item>
-      <File>RPH Australia.png</File>
     </Channel>
     <Channel>
       <Item Name="SBS Arabic24">
@@ -1660,24 +1627,6 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>SBS Radio 3.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Triple J">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>Triple J.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="3RPH">
-        <Provider>VAST</Provider>
-      </Item>
-      <File>Vision Australia Radio.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="UCB">
-        <Provider>Optus C1</Provider>
-      </Item>
-      <File>Vision Christian Radio.png</File>
     </Channel>
   </Radio>
   <!-- ******************************************************************** -->
