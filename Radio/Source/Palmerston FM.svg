@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -46,7 +46,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="1.4175411"
-     inkscape:cx="239.55503"
+     inkscape:cx="124.91991"
      inkscape:cy="187.48386"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -58,79 +58,80 @@
   <g
      id="g4651"
      transform="matrix(1.9279704,0,0,1.9279704,-8.6864857,218.92871)"
-     style="fill:#89325d;fill-opacity:1">
+     style="fill:#ab3a72;fill-opacity:1">
     <path
        d="m 4.5055078,-113.13398 h 9.0000002 q 1.98,0 3.6,0.51 1.62,0.48 2.76,1.44 1.14,0.93 1.74,2.31 0.63,1.38 0.63,3.12 v 0.06 q 0,1.86 -0.69,3.27 -0.66,1.41 -1.86,2.37 -1.2,0.959999 -2.88,1.439999 -1.65,0.48 -3.6,0.48 h -2.88 v 6 H 4.5055078 Z m 8.5800002,10.44 q 1.56,0 2.43,-0.72 0.9,-0.75 0.9,-2.01 v -0.06 q 0,-1.35 -0.9,-2.04 -0.87,-0.72 -2.46,-0.72 h -2.73 v 5.55 z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#89325d;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#ab3a72;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path4592"
        inkscape:connector-curvature="0" />
     <path
        d="m 29.812383,-113.28398 h 5.61 l 8.939999,21.149999 h -6.24 l -1.529999,-3.75 h -8.1 l -1.5,3.75 h -6.12 z m 5.1,12.87 -2.34,-5.97 -2.37,5.97 z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#89325d;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#ab3a72;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path4594"
        inkscape:connector-curvature="0" />
     <path
        d="m 46.400039,-113.13398 h 5.82 v 15.899999 h 10.169999 v 5.1 H 46.400039 Z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#89325d;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#ab3a72;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path4596"
        inkscape:connector-curvature="0" />
     <path
        d="m 64.85707,-113.13398 h 6.15 l 5.009996,8.13 5.01,-8.13 h 6.15 v 20.999999 h -5.79 v -12.059999 l -5.37,8.219999 h -0.12 l -5.339996,-8.159999 v 11.999999 h -5.7 z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#89325d;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#ab3a72;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path4598"
        inkscape:connector-curvature="0" />
     <path
        d="m 90.872691,-113.13398 h 16.889999 v 4.95 H 96.632691 v 3.18 h 10.079999 v 4.59 H 96.632691 v 3.329999 h 11.279999 v 4.95 H 90.872691 Z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#89325d;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#ab3a72;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path4600"
        inkscape:connector-curvature="0" />
     <path
        d="m 110.91175,-113.13398 h 9.93 q 2.43,0 4.11,0.6 1.68,0.6 2.73,1.68 1.86,1.8 1.86,4.89 v 0.06 q 0,2.43 -1.17,4.02 -1.17,1.59 -3.15,2.429999 l 5.01,7.32 h -6.72 l -4.23,-6.36 h -0.06 -2.49 v 6.36 h -5.82 z m 9.66,10.08 q 1.5,0 2.31,-0.66 0.81,-0.69 0.81,-1.83 v -0.06 q 0,-1.26 -0.84,-1.86 -0.84,-0.63 -2.31,-0.63 h -3.81 v 5.04 z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#89325d;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#ab3a72;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path4602"
        inkscape:connector-curvature="0" />
     <path
        d="m 140.72425,-91.773981 q -2.82,0 -5.37,-0.87 -2.52,-0.87 -4.47,-2.61 l 3.24,-3.87 q 3.15,2.52 6.81,2.52 1.17,0 1.77,-0.36 0.63,-0.39 0.63,-1.08 v -0.06 q 0,-0.33 -0.15,-0.57 -0.15,-0.27 -0.57,-0.51 -0.39,-0.24 -1.08,-0.45 -0.66,-0.24 -1.74,-0.479999 -1.68,-0.39 -3.12,-0.84 -1.44,-0.48 -2.52,-1.2 -1.05,-0.75 -1.68,-1.83 -0.6,-1.11 -0.6,-2.73 v -0.06 q 0,-1.47 0.54,-2.7 0.57,-1.23 1.62,-2.13 1.08,-0.9 2.58,-1.38 1.5,-0.51 3.39,-0.51 2.7,0 4.8,0.72 2.13,0.69 3.84,2.07 l -2.91,4.11 q -1.44,-1.02 -2.97,-1.53 -1.5,-0.54 -2.91,-0.54 -1.05,0 -1.59,0.39 -0.51,0.39 -0.51,0.96 v 0.06 q 0,0.36 0.15,0.63 0.18,0.27 0.57,0.51 0.42,0.21 1.11,0.45 0.72,0.21 1.8,0.45 1.8,0.39 3.24,0.93 1.47,0.51 2.49,1.26 1.02,0.75 1.56,1.83 0.54,1.05 0.54,2.519999 v 0.06 q 0,1.62 -0.63,2.88 -0.6,1.26 -1.71,2.16 -1.11,0.87 -2.67,1.35 -1.56,0.45 -3.48,0.45 z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#89325d;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#ab3a72;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path4604"
        inkscape:connector-curvature="0" />
     <path
        d="m 156.58863,-108.03398 h -6.3 v -5.1 h 18.42 v 5.1 h -6.3 v 15.899999 h -5.82 z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#89325d;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#ab3a72;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path4606"
        inkscape:connector-curvature="0" />
     <path
        d="m 180.94441,-91.713981 q -2.43,0 -4.5,-0.84 -2.07,-0.87 -3.57,-2.34 -1.5,-1.47 -2.37,-3.45 -0.84,-1.979999 -0.84,-4.229999 v -0.06 q 0,-2.25 0.84,-4.23 0.87,-2.01 2.4,-3.48 1.53,-1.5 3.6,-2.34 2.07,-0.87 4.5,-0.87 2.43,0 4.5,0.87 2.07,0.84 3.57,2.31 1.5,1.47 2.34,3.45 0.87,1.98 0.87,4.23 v 0.06 q 0,2.25 -0.87,4.259999 -0.84,1.98 -2.37,3.48 -1.53,1.47 -3.6,2.34 -2.07,0.84 -4.5,0.84 z m 0.06,-5.25 q 1.2,0 2.19,-0.45 0.99,-0.45 1.68,-1.2 0.69,-0.78 1.08,-1.799999 0.39,-1.02 0.39,-2.16 v -0.06 q 0,-1.14 -0.39,-2.16 -0.39,-1.02 -1.11,-1.8 -0.72,-0.78 -1.71,-1.23 -0.99,-0.48 -2.19,-0.48 -1.2,0 -2.19,0.45 -0.96,0.45 -1.68,1.23 -0.69,0.75 -1.08,1.77 -0.36,1.02 -0.36,2.16 v 0.06 q 0,1.14 0.39,2.16 0.39,1.019999 1.08,1.799999 0.72,0.78 1.71,1.26 0.99,0.45 2.19,0.45 z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#89325d;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#ab3a72;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path4608"
        inkscape:connector-curvature="0" />
     <path
        d="m 195.28675,-113.13398 h 5.43 l 8.64,11.1 v -11.1 h 5.76 v 20.999999 h -5.1 l -8.97,-11.519999 v 11.519999 h -5.76 z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#89325d;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#ab3a72;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path4610"
        inkscape:connector-curvature="0" />
   </g>
   <g
      id="g4661"
-     transform="translate(-16.424624,221.77226)">
+     transform="translate(-16.424624,221.77226)"
+     style="fill:#ab3a72;fill-opacity:1">
     <path
        d="m 28.351499,-78.204716 h 66.224249 v 15.171443 H 51.293472 v 10.62001 h 39.14326 v 14.36825 h -39.14326 v 22.310946 H 28.351499 Z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#89325d;fill-opacity:1;stroke:none;stroke-width:2.56828666px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#ab3a72;fill-opacity:1;stroke:none;stroke-width:2.56828666px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path4612"
        inkscape:connector-curvature="0" />
     <path
        d="m 103.7235,-78.204716 h 25.79879 l 21.01658,24.185065 21.01658,-24.185065 h 25.7988 v 62.470649 h -24.28862 v -35.876002 l -22.52676,24.452797 h -0.50339 l -22.40091,-24.274309 v 35.697514 H 103.7235 Z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#89325d;fill-opacity:1;stroke:none;stroke-width:2.64942598px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#ab3a72;fill-opacity:1;stroke:none;stroke-width:2.64942598px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path4614"
        inkscape:connector-curvature="0" />
     <path
        d="m 285.6225,-14.663142 q -8.3516,0 -15.37755,-1.338657 -7.02595,-1.338657 -12.06342,-3.748239 -5.03748,-2.409582 -7.95391,-5.711602 -2.78387,-3.391264 -2.78387,-7.496478 v -0.178487 q 0,-5.711603 4.10952,-9.281354 4.24208,-3.569751 11.7983,-5.711602 -5.43518,-2.052607 -9.147,-5.265383 -3.57926,-3.212777 -3.57926,-8.299672 v -0.178488 q 0,-3.748239 2.51874,-6.871771 2.51874,-3.212776 7.15852,-5.533115 4.63977,-2.409582 11.0029,-3.658995 6.49569,-1.338657 14.31703,-1.338657 7.82134,0 14.18447,1.338657 6.49568,1.249413 11.13546,3.658995 4.63979,2.320339 7.15852,5.533115 2.51874,3.123532 2.51874,6.871771 v 0.178488 q 0,5.086895 -3.71183,8.299672 -3.57926,3.212776 -9.01442,5.265383 3.57926,1.070925 6.49568,2.498826 2.91645,1.338657 4.90491,3.123532 2.12104,1.784876 3.31414,4.105214 1.19308,2.231095 1.19308,5.17614 v 0.178487 q 0,4.194458 -2.91643,7.585722 -2.78387,3.391264 -7.82135,5.800846 -5.03747,2.409582 -12.06342,3.748239 -7.02595,1.249413 -15.37755,1.249413 z m 0,-38.19634 q 5.17004,0 8.21904,-1.874119 3.18156,-1.963363 3.18156,-4.908408 v -0.178488 q 0,-2.58807 -3.049,-4.551433 -3.049,-2.052607 -8.3516,-2.052607 -5.3026,0 -8.3516,1.963363 -3.04899,1.963364 -3.04899,4.551433 v 0.178488 q 0,2.945045 3.04899,4.908408 3.18156,1.963363 8.3516,1.963363 z m 0,25.255991 q 6.4957,0 9.94239,-2.052607 3.44668,-2.141851 3.44668,-4.997652 v -0.178487 q 0,-3.034289 -3.71181,-4.908408 -3.71183,-1.87412 -9.67726,-1.87412 -5.96543,0 -9.67724,1.87412 -3.71183,1.874119 -3.71183,4.908408 v 0.178487 q 0,2.855801 3.44669,4.997652 3.4467,2.052607 9.94238,2.052607 z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#89325d;fill-opacity:1;stroke:none;stroke-width:2.71921539px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#ab3a72;fill-opacity:1;stroke:none;stroke-width:2.71921539px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path4616"
        inkscape:connector-curvature="0" />
     <path
        d="m 372.37124,-14.663142 q -8.3516,0 -15.37755,-1.338657 -7.02595,-1.338657 -12.06342,-3.748239 -5.03748,-2.409582 -7.95391,-5.711602 -2.78387,-3.391264 -2.78387,-7.496478 v -0.178487 q 0,-5.711603 4.10952,-9.281354 4.24208,-3.569751 11.79829,-5.711602 -5.43517,-2.052607 -9.14699,-5.265383 -3.57926,-3.212777 -3.57926,-8.299672 v -0.178488 q 0,-3.748239 2.51874,-6.871771 2.51873,-3.212776 7.15852,-5.533115 4.63977,-2.409582 11.0029,-3.658995 6.49569,-1.338657 14.31703,-1.338657 7.82134,0 14.18446,1.338657 6.49569,1.249413 11.13547,3.658995 4.63977,2.320339 7.15852,5.533115 2.51874,3.123532 2.51874,6.871771 v 0.178488 q 0,5.086895 -3.71183,8.299672 -3.57926,3.212776 -9.01443,5.265383 3.57927,1.070925 6.49569,2.498826 2.91643,1.338657 4.90491,3.123532 2.12104,1.784876 3.31412,4.105214 1.1931,2.231095 1.1931,5.17614 v 0.178487 q 0,4.194458 -2.91643,7.585722 -2.78387,3.391264 -7.82135,5.800846 -5.03747,2.409582 -12.06342,3.748239 -7.02595,1.249413 -15.37755,1.249413 z m 0,-38.19634 q 5.17004,0 8.21903,-1.874119 3.18156,-1.963363 3.18156,-4.908408 v -0.178488 q 0,-2.58807 -3.04899,-4.551433 -3.049,-2.052607 -8.3516,-2.052607 -5.3026,0 -8.3516,1.963363 -3.04901,1.963364 -3.04901,4.551433 v 0.178488 q 0,2.945045 3.04901,4.908408 3.18156,1.963363 8.3516,1.963363 z m 0,25.255991 q 6.49568,0 9.94238,-2.052607 3.44669,-2.141851 3.44669,-4.997652 v -0.178487 q 0,-3.034289 -3.71183,-4.908408 -3.71181,-1.87412 -9.67724,-1.87412 -5.96543,0 -9.67726,1.87412 -3.71181,1.874119 -3.71181,4.908408 v 0.178487 q 0,2.855801 3.44668,4.997652 3.44669,2.052607 9.94239,2.052607 z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#89325d;fill-opacity:1;stroke:none;stroke-width:2.71921539px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:25px;font-family:'Fluid Title Caps';-inkscape-font-specification:'Fluid Title Caps Bold';letter-spacing:0px;word-spacing:0px;fill:#ab3a72;fill-opacity:1;stroke:none;stroke-width:2.71921539px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path4618"
        inkscape:connector-curvature="0" />
   </g>
