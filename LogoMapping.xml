@@ -798,13 +798,13 @@
       <Item Name="NBN Central Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="NBN Gold Coast">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
       <Item Name="NBN New England">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Nine">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Nine Ballarat">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Nine Brisbane">
@@ -868,9 +868,6 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="SC9 Albury">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Ballarat">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="SC9 Bendigo">
