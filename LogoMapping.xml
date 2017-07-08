@@ -6,6 +6,9 @@
       <Item Name="7flix">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="7flix Adelaide">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="7flix Brisbane">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -19,6 +22,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7flix Perth">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7flix Rockhampton">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7flix Sydney">
@@ -93,6 +99,9 @@
       <Item Name="7mate Mildura">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="7mate Mt Gambier">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="7mate Newcastle">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -106,6 +115,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7mate Port Pirie">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7mate Rockhampton">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7mate Shepparton">
@@ -127,6 +139,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7mate Traralgon">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7mate Wagga Wagga">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7mate Wide Bay">
@@ -198,6 +213,9 @@
       <Item Name="7Two Melbourne">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="7Two Mt Gambier">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="7Two Newcastle">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -211,6 +229,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7Two Port Pirie">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7Two Rockhampton">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7Two Shepparton">
@@ -232,6 +253,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7Two Traralgon">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7Two Wagga Wagga">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7Two Wide Bay">
@@ -288,12 +312,6 @@
       <Item Name="9Gem Hobart">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="9Gem Illawarra">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="9Gem Launceston">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
       <Item Name="9Gem Mackay">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -301,6 +319,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9Gem Mildura">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9Gem New England">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9Gem Newcastle">
@@ -339,9 +360,6 @@
       <Item Name="9Gem Wagga Wagga">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="9Gem Western Vic">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
       <Item Name="9Gem Whyalla">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -349,6 +367,18 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9Gem Wollongong">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Gem Illawarra">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Gem Launceston">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Gem Mt Gambier">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Gem Western Vic">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>9Gem.png</File>
@@ -394,12 +424,6 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9Go! Hobart">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="9Go! Illawarra">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="9Go! Launceston">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9Go! Mackay">
@@ -450,9 +474,6 @@
       <Item Name="9Go! Wagga Wagga">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="9Go! Western Vic">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
       <Item Name="9Go! Whyalla">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -460,6 +481,18 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9Go! Wollongong">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Go! Illawarra">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Go! Launceston">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Go! Mt Gambier">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Go! Western Vic">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>9Go.png</File>
@@ -651,6 +684,9 @@
       <Item Name="Eleven Cairns">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Eleven Canberra">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Eleven Coffs Harbour">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -669,7 +705,13 @@
       <Item Name="Eleven Lismore">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Eleven Mt Gambier">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Eleven Newcastle">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Eleven Orange">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Eleven Port Augusta">
@@ -709,12 +751,6 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Eleven.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Expo Channel">
-        <Provider>Optus C1</Provider>
-      </Item>
-      <File>Expo Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Extra">
@@ -798,37 +834,61 @@
       <Item Name="NBN Central Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="NBN Mid North Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="NBN New England">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Nine">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Nine Albury">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Nine Ballarat">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="Nine Brisbane">
+      <Item Name="Nine Bendigo">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Nine Broken Hill">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Nine Bundaberg">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Nine Cairns">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="Nine Digital">
+      <Item Name="Nine Canberra">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="Nine Ballarat">
+      <Item Name="Nine Coffs Harbour">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Nine Digital">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Nine Far North Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Nine Dubbo">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Nine Gippsland">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Nine Launceston">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Nine Lismore">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Nine Mackay">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="Nine Melbourne">
+      <Item Name="Nine Mt Gambier">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Nine Newcastle">
@@ -837,13 +897,37 @@
       <Item Name="Nine Orange">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Nine Port Augusta">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Nine Port Lincoln">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Nine Port Macquarie">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Nine Port Pirie">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Nine Rockhampton">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Nine Shepparton">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Nine South Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="Nine Sydney">
+      <Item Name="Nine Sunshine Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Nine Tamworth">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Nine Taree">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Nine Tas">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Nine Toowoomba">
@@ -852,7 +936,19 @@
       <Item Name="Nine Townsville">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Nine Wagga Wagga">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Nine Whyalla">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Nine Wide Bay">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Nine Wodonga">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Nine Wollongong">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Nine-NBN Central Coast">
@@ -864,97 +960,7 @@
       <Item Name="Nine-NBN New England">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="SC9">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Albury">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Bendigo">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Broken Hill">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Bundaberg">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Cairns">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Canberra">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Coffs Harbour">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Dubbo">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Gippsland">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Gold Coast">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Launceston">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Lismore">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Mackay">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Orange">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Port Augusta">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Port Lincoln">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Port Macquarie">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Port Pirie">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Rockhampton">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Shepparton">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Sunshine Coast">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Tamworth">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Taree">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Toowoomba">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Townsville">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Wagga Wagga">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Whyalla">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Wodonga">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC9 Wollongong">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="TDT">
+      <Item Name="SC Nine">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Nine.png</File>
@@ -969,10 +975,16 @@
       <Item Name="9HD Ballarat">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9HD Bendigo">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9HD Brisbane">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9HD Cairns">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9HD Canberra">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9HD Central Coast">
@@ -1017,16 +1029,22 @@
       <Item Name="9HD Sydney">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9HD Tas">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9HD Toowoomba">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9HD Townsville">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9HD Wagga Wagga">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9HD Wide Bay">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="TDT HD">
+      <Item Name="9HD Wollongong">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Nine HD.png</File>
@@ -1081,6 +1099,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="One Mildura">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="One Mt Gambier">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="One Newcastle">
@@ -1188,6 +1209,9 @@
       <Item Name="Prime7 Traralgon">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Prime7 Wagga Wagga">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Prime7 Wollongong">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1254,6 +1278,9 @@
       <Item Name="7 Perth">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="7 Rockhampton">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="7 Sun Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1269,6 +1296,9 @@
       <Item Name="7 Wide Bay">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Seven Mt Gambier">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <File>Seven.png</File>
     </Channel>
     <Channel>
@@ -1276,6 +1306,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7HD Brisbane">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7HD Central Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7HD Gold Coast">
@@ -1479,10 +1512,16 @@
       <Item Name="WIN Illawarra">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="WIN Launceston">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="WIN Mackay">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="WIN Mildura">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Win Mt Gambier">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="WIN Network">
@@ -1518,6 +1557,9 @@
       <Item Name="WIN Cairns HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="WIN Canberra HD">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="WIN Darling Downs HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1531,6 +1573,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="WIN Mackay HD">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Win Mt Gambier HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="WIN Orange HD">
