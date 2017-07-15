@@ -1335,6 +1335,12 @@
       <File>Snowy Mountains Television.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sonlife">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Sonlife Broadcasting Network.png</File>
+    </Channel>
+    <Channel>
       <Item Name="GTS BKN Broken Hill">
         <Provider>Freeview (AU)</Provider>
       </Item>
