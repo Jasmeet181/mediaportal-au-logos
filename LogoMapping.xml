@@ -687,6 +687,9 @@
       <Item Name="Eleven Canberra">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Eleven Central QLD">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Eleven Coffs Harbour">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -831,15 +834,6 @@
       <Item Name="Channel 9 Sydney">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="NBN Central Coast">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="NBN Mid North Coast">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="NBN New England">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
       <Item Name="Nine">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -951,15 +945,6 @@
       <Item Name="Nine Wollongong">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="Nine-NBN Central Coast">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="Nine-NBN Gold Coast">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="Nine-NBN New England">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
       <Item Name="SC Nine">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -987,28 +972,16 @@
       <Item Name="9HD Canberra">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="9HD Central Coast">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
       <Item Name="9HD Far North Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9HD Gippsland">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="9HD Gold Coast">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
       <Item Name="9HD Mackay">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9HD Melbourne">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="9HD Mid North Coast">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="9HD New England">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9HD Newcastle">
@@ -1050,6 +1023,42 @@
       <File>Nine HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="NBN Central Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="NBN Mid North Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="NBN New England">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Nine-NBN Central Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Nine-NBN Gold Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Nine-NBN New England">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Nine NBN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="9HD Central Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9HD Gold Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9HD Mid North Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="9HD New England">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Nine NBN HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Nurlu">
         <Provider>Terrestrial (AU)</Provider>
       </Item>
@@ -1075,6 +1084,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="One Canberra">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="One Central QLD">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="One Coffs Harbour">
@@ -1506,6 +1518,9 @@
       <Item Name="WIN Canberra">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="WIN Central QLD">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="WIN Darling Downs">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1564,6 +1579,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="WIN Canberra HD">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="WIN Central QLD HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="WIN Darling Downs HD">
