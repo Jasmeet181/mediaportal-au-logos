@@ -822,9 +822,6 @@
       <Item Name="Channel 9 Brisbane">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="Channel 9 Gold Coast">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
       <Item Name="Channel 9 Melbourne">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1407,12 +1404,6 @@
       <Item Name="SC10 Coffs Harbour">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="SC10 Gold Coast">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SC10 Lismore">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
       <Item Name="SC10 Port Augusta">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1449,15 +1440,6 @@
       <Item Name="Ten Digital">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="Ten Gold Coast">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="Ten Lismore">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="Ten Newcastle">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
       <File>Ten.png</File>
     </Channel>
     <Channel>
@@ -1465,15 +1447,6 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Ten HD Coffs Harbour">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="Ten HD Gold Coast">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="Ten HD Lismore">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="Ten HD Newcastle">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Ten HD Tamworth">
@@ -1524,6 +1497,9 @@
       <Item Name="WIN Darling Downs">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="WIN Gold Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="WIN Gippsland">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1536,6 +1512,9 @@
       <Item Name="WIN Launceston">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="WIN Lismore">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="WIN Mackay">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1546,6 +1525,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="WIN Network">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="WIN Newcastle">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="WIN Orange">
@@ -1594,6 +1576,15 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="WIN HD">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="WIN HD Gold Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="WIN HD Lismore">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="WIN HD Newcastle">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="WIN Mackay HD">
