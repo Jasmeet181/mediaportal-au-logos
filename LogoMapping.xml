@@ -603,6 +603,12 @@
       <File>ABC.png</File>
     </Channel>
     <Channel>
+      <Item Name="ABC Comedy/Kids">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>ABC Comedy ABC Kids.png</File>
+    </Channel>
+    <Channel>
       <Item Name="ABC HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
