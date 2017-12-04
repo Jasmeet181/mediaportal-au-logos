@@ -603,7 +603,7 @@
       <File>ABC.png</File>
     </Channel>
     <Channel>
-      <Item Name="ABC Comedy/Kids">
+      <Item Name="ABC Comedy">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>ABC Comedy ABC Kids.png</File>
@@ -625,12 +625,6 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>ABC News.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="ABC2/Kids">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>ABC2 ABC Kids.png</File>
     </Channel>
     <Channel>
       <Item Name="Aboriginal TV">
