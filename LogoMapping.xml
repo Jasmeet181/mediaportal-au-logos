@@ -1227,6 +1227,24 @@
       <File>Prime7.png</File>
     </Channel>
     <Channel>
+      <Item Name="Prime7 HD">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Prime7 HD Canberra">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Prime7 HD Ballarat">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Prime7 HD Newcastle">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Prime7 HD Orange">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Prime7 HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Racing.com">
         <Provider>Freeview (AU)</Provider>
       </Item>
