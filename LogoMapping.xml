@@ -1242,6 +1242,9 @@
       <Item Name="Prime7 HD Orange">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Prime7 HD Wollongong">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <File>Prime7 HD.png</File>
     </Channel>
     <Channel>
@@ -1539,10 +1542,7 @@
       <Item Name="WIN Mildura">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="Win Mt Gambier">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="WIN Network">
+      <Item Name="WIN Mt Gambier">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="WIN Newcastle">
@@ -1608,7 +1608,7 @@
       <Item Name="WIN Mackay HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="Win Mt Gambier HD">
+      <Item Name="WIN Mt Gambier HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="WIN Orange HD">
@@ -1633,6 +1633,12 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>WIN HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WIN Network">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>WIN Network.png</File>
     </Channel>
   </TV>
   <!-- ******************************************************************** -->
