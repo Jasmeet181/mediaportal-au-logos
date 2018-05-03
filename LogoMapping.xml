@@ -1692,6 +1692,24 @@
       <File>SBS Arabic24.png</File>
     </Channel>
     <Channel>
+      <Item Name="SBS Chill">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>SBS Chill.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SBS PopAsia">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>SBS PopAsia.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SBS PopDesi">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>SBS PopDesi.png</File>
+    </Channel>
+    <Channel>
       <Item Name="SBS Radio 1">
         <Provider>Freeview (AU)</Provider>
       </Item>
