@@ -1359,10 +1359,19 @@
       <File>Seven HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky News On WIN">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Sky News On WIN.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Prog 1">
         <Provider>Terrestrial (AU)</Provider>
       </Item>
       <Item Name="SMTV">
+        <Provider>Terrestrial (AU)</Provider>
+      </Item>
+      <Item Name="SMTV HD">
         <Provider>Terrestrial (AU)</Provider>
       </Item>
       <File>Snowy Mountains Television.png</File>
