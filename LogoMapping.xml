@@ -1658,6 +1658,12 @@
       </Item>
       <File>WIN Network.png</File>
     </Channel>
+    <Channel>
+      <Item Name="Your Money">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Your Money.png</File>
+    </Channel>
   </TV>
   <!-- ******************************************************************** -->
   <Radio>
