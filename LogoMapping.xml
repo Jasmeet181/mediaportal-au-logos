@@ -882,6 +882,9 @@
       <Item Name="Nine Mackay">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Nine Mid North Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Nine Mt Gambier">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -984,6 +987,9 @@
       <Item Name="9HD Melbourne">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="9HD Mid North Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="9HD Newcastle">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1026,9 +1032,6 @@
       <Item Name="NBN Central Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="NBN Mid North Coast">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
       <Item Name="NBN New England">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1048,9 +1051,6 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9HD Gold Coast">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="9HD Mid North Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="9HD New England">
@@ -1234,6 +1234,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Prime7 HD Canberra">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Prime7 HD Coffs Harbour">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Prime7 HD Ballarat">
@@ -1437,9 +1440,6 @@
       <Item Name="SC10 Broken Hill">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="SC10 Coffs Harbour">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
       <Item Name="SC10 Port Augusta">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1530,6 +1530,9 @@
       <Item Name="WIN Central QLD">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="WIN Coffs Harbour">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="WIN Darling Downs">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1599,6 +1602,9 @@
       <Item Name="WIN Central QLD HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="WIN HD Coffs Harbour">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="WIN Darling Downs HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1651,12 +1657,6 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>WIN HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="WIN Network">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>WIN Network.png</File>
     </Channel>
     <Channel>
       <Item Name="Your Money">
