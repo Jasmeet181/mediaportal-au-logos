@@ -759,12 +759,6 @@
       <File>Eleven.png</File>
     </Channel>
     <Channel>
-      <Item Name="Extra">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>Extra.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Food Network">
         <Provider>Freeview (AU)</Provider>
       </Item>
