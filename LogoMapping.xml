@@ -1332,6 +1332,42 @@
       <File>Seven.png</File>
     </Channel>
     <Channel>
+      <Item Name="SCTV Alice Springs">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SCTV Mt Isa">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SCTV Roma">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Seven Central.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SCTV Darwin">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Seven Darwin.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="GTS BKN Broken Hill">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="GTS BKN Port Pirie">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SCTV Port Augusta">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SCTV Port Lincoln">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SCTV Whyalla">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Seven GTS BKN.png</File>
+    </Channel>
+    <Channel>
       <Item Name="7HD Adelaide">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1356,6 +1392,30 @@
       <File>Seven HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="7 Tasmania">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SCTV Hobart">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SCTV Launceston">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Seven Tasmania.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SCHD">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SCTV HD Hobart">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="SCTV HD Launceston">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>Seven Tasmania HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky News On WIN">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1378,57 +1438,6 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Sonlife Broadcasting Network.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="GTS BKN Broken Hill">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="GTS BKN Port Pirie">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>Southern Cross GTS BKN.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="SCHD">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SCTV HD Hobart">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SCTV HD Launceston">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>Southern Cross HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="SCTV Alice Springs">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SCTV Darwin">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SCTV Hobart">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SCTV Launceston">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SCTV Mt Isa">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SCTV Port Augusta">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SCTV Port Lincoln">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SCTV Roma">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SCTV Whyalla">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>Southern Cross Television.png</File>
     </Channel>
     <Channel>
       <Item Name="SC10 Broken Hill">
