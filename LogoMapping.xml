@@ -69,6 +69,9 @@
       <Item Name="7mate Canberra">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="7mate Central">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="7mate Central Coast">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -184,6 +187,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7Two Canberra">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="7Two Central - North">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="7Two Central Coast">
@@ -378,6 +384,9 @@
       <Item Name="Gem Mt Gambier">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Gem North">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Gem Western Vic">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -490,6 +499,9 @@
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Go! Mt Gambier">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <Item Name="Go! North">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <Item Name="Go! Western Vic">
@@ -792,6 +804,9 @@
       <Item Name="Imparja">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Imparja North">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <File>Imparja Television.png</File>
     </Channel>
     <Channel>
@@ -1080,6 +1095,9 @@
       <Item Name="One Canberra">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="One Central">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="One Central QLD">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1242,6 +1260,9 @@
       <Item Name="Prime7 HD Orange">
         <Provider>Freeview (AU)</Provider>
       </Item>
+      <Item Name="Prime7 HD Sth Coast">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="Prime7 HD Wollongong">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1332,42 +1353,27 @@
       <File>Seven.png</File>
     </Channel>
     <Channel>
-      <Item Name="SCTV Alice Springs">
+      <Item Name="7 Port Pirie">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="SCTV Mt Isa">
+      <Item Name="7 Broken Hill">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="SCTV Roma">
+      <Item Name="7 Port Lincoln">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Seven Central.png</File>
     </Channel>
     <Channel>
-      <Item Name="SCTV Darwin">
+      <Item Name="7 Darwin">
         <Provider>Freeview (AU)</Provider>
       </Item>
       <File>Seven Darwin.png</File>
     </Channel>
     <Channel>
-      <Item Name="GTS BKN Broken Hill">
+      <Item Name="7HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="GTS BKN Port Pirie">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SCTV Port Augusta">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SCTV Port Lincoln">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SCTV Whyalla">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>Seven GTS BKN.png</File>
-    </Channel>
-    <Channel>
       <Item Name="7HD Adelaide">
         <Provider>Freeview (AU)</Provider>
       </Item>
@@ -1392,28 +1398,13 @@
       <File>Seven HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="7 Launceston">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
       <Item Name="7 Tasmania">
         <Provider>Freeview (AU)</Provider>
       </Item>
-      <Item Name="SCTV Hobart">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SCTV Launceston">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
       <File>Seven Tasmania.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="SCHD">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SCTV HD Hobart">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <Item Name="SCTV HD Launceston">
-        <Provider>Freeview (AU)</Provider>
-      </Item>
-      <File>Seven Tasmania HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky News On WIN">
@@ -1689,19 +1680,19 @@
       <File>Double J.png</File>
     </Channel>
     <Channel>
-      <Item Name="Larrakia Radio">
+      <Item Name="Radio Larrakia">
         <Provider>Terrestrial (AU)</Provider>
       </Item>
       <File>Larrakia Radio.png</File>
     </Channel>
     <Channel>
-      <Item Name="National Aboriginal Radio">
+      <Item Name="Aboriginal Radio">
         <Provider>Terrestrial (AU)</Provider>
       </Item>
       <File>National Aboriginal Radio.png</File>
     </Channel>
     <Channel>
-      <Item Name="Palmerston FM">
+      <Item Name="Palmerston FM 88">
         <Provider>Terrestrial (AU)</Provider>
       </Item>
       <File>Palmerston FM.png</File>
