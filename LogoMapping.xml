@@ -1281,6 +1281,12 @@
       <File>SBS.png</File>
     </Channel>
     <Channel>
+      <Item Name="SBS Food">
+        <Provider>Freeview (AU)</Provider>
+      </Item>
+      <File>SBS Food.png</File>
+    </Channel>
+    <Channel>
       <Item Name="SBS One HD">
         <Provider>Freeview (AU)</Provider>
       </Item>
