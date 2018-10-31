@@ -930,6 +930,30 @@
 			<File>iShop TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Ten Brisbane">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Ten Digital">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>Network 10.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ten HD">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Ten HD Coffs Harbour">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Ten HD Tamworth">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Ten HD Taree">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>Network 10 HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NITV">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
@@ -1474,30 +1498,6 @@
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<File>Spree TV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Ten Brisbane">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Ten Digital">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<File>Ten.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Ten HD">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Ten HD Coffs Harbour">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Ten HD Tamworth">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Ten HD Taree">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<File>Ten HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Tourism TV">
