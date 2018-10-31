@@ -10,34 +10,32 @@
   </rdf:RDF>
  </metadata>
  <defs id="defs21">
-  <linearGradient id="linearGradient3083" x1="166.75" x2="759.06" y1="2004" y2="2444.2" gradientUnits="userSpaceOnUse">
-   <stop id="stop3079" stop-color="#52a9fd" offset="0"/>
-   <stop id="stop3714" stop-color="#4963f8" offset=".5"/>
-   <stop id="stop3081" stop-color="#4300f4" offset="1"/>
+  <linearGradient id="linearGradient3421" x1="178.95" x2="743.37" y1="1991.5" y2="2464.7" gradientUnits="userSpaceOnUse">
+   <stop id="stop3079-2" stop-color="#06b0fe" offset="0"/>
+   <stop id="stop3722" stop-color="#0283fa" offset=".25"/>
+   <stop id="stop3716" stop-color="#0164f6" offset=".5"/>
+   <stop id="stop3714-0" stop-color="#0052f4" offset=".75"/>
+   <stop id="stop3081-2" stop-color="#0047f3" offset="1"/>
   </linearGradient>
-  <filter id="filter3499" color-interpolation-filters="sRGB">
-   <feFlood id="feFlood3501" flood-color="rgb(0,0,0)" flood-opacity=".4" result="flood"/>
-   <feComposite id="feComposite3503" in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
-   <feGaussianBlur id="feGaussianBlur3505" result="blur" stdDeviation="8"/>
-   <feOffset id="feOffset3507" dx="4" dy="11" result="offset"/>
-   <feComposite id="feComposite3509" in="SourceGraphic" in2="offset" result="composite2"/>
+  <filter id="filter3499-4" color-interpolation-filters="sRGB">
+   <feFlood id="feFlood3501-5" flood-color="rgb(0,0,0)" flood-opacity=".4" result="flood"/>
+   <feComposite id="feComposite3503-5" in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur id="feGaussianBlur3505-1" result="blur" stdDeviation="8"/>
+   <feOffset id="feOffset3507-7" dx="4" dy="11" result="offset"/>
+   <feComposite id="feComposite3509-1" in="SourceGraphic" in2="offset" result="composite2"/>
   </filter>
-  <filter id="filter3691" color-interpolation-filters="sRGB">
-   <feFlood id="feFlood3693" flood-color="rgb(0,0,0)" flood-opacity=".45" result="flood"/>
-   <feComposite id="feComposite3695" in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
-   <feGaussianBlur id="feGaussianBlur3697" result="blur" stdDeviation="7"/>
-   <feOffset id="feOffset3699" dx="7" dy="7" result="offset"/>
-   <feComposite id="feComposite3701" in="SourceGraphic" in2="offset" result="composite2"/>
+  <filter id="filter3691-1" color-interpolation-filters="sRGB">
+   <feFlood id="feFlood3693-5" flood-color="rgb(0,0,0)" flood-opacity=".45" result="flood"/>
+   <feComposite id="feComposite3695-2" in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur id="feGaussianBlur3697-7" result="blur" stdDeviation="7"/>
+   <feOffset id="feOffset3699-6" dx="7" dy="7" result="offset"/>
+   <feComposite id="feComposite3701-1" in="SourceGraphic" in2="offset" result="composite2"/>
   </filter>
  </defs>
- <g id="layer1" transform="matrix(.74998 0 0 .74998 -10.719 -418.13)">
-  <g id="g943">
-   <path id="path3074" transform="matrix(1.3508,0,0,1.3508,-94.487,-1960.7)" d="m820.85 2234.4a370.16 370.16 0 0 1-370.16 370.16 370.16 370.16 0 0 1-370.16-370.16 370.16 370.16 0 0 1 370.16-370.16 370.16 370.16 0 0 1 370.16 370.16z" fill="url(#linearGradient3083)"/>
-   <g id="g937" fill="#fff">
-    <path id="path3068" transform="matrix(1.2644,0,0,1.2644,-91.912,-1320.3)" d="m562.09 1694c-77.563 0-137.11 46.605-163.09 98v-91l-117 69v290.5h117v-90.5c21.802 43.811 78.73 98.094 162.62 98.094 107.59 0 186.44-87.222 186.44-185.06 0-116.48-92.998-189.03-185.97-189.03zm0.625 117.03c37.4 0 68.906 30.907 68.906 69.813 0 35.706-27.902 70.156-68.844 70.156-40.716 0-69.969-33.399-69.969-70.031 0-34.669 26.701-69.938 69.906-69.938z" filter="url(#filter3499)"/>
-    <path id="path3072" transform="matrix(1.2644,0,0,1.2644,-91.912,-1320.3)" d="m213 1889v-117.28c26.456 0 69-19.562 69-70.721h117c0 106.13-83.701 188-186 188z" filter="url(#filter3691)"/>
-   </g>
-  </g>
+ <g id="g900" transform="matrix(.75 0 0 .75 -10.726 -418.13)">
+  <circle id="path3074-2" transform="matrix(1.3508 0 0 1.3508 -94.487 -1960.7)" cx="450.69" cy="2234.4" r="370.16" fill="url(#linearGradient3421)"/>
+  <path id="path3068-1" transform="matrix(1.2644 0 0 1.2644 -91.912 -1320.3)" d="m562.09 1694c-77.563 0-137.11 46.605-163.09 98v-91l-117 69v290.5h117v-90.5c21.802 43.811 78.73 98.094 162.62 98.094 107.59 0 186.44-87.222 186.44-185.06 0-116.48-92.998-189.03-185.97-189.03zm0.625 117.03c37.4 0 68.906 30.907 68.906 69.813 0 35.706-27.902 70.156-68.844 70.156-40.716 0-69.969-33.399-69.969-70.031 0-34.669 26.701-69.938 69.906-69.938z" fill="#fff" filter="url(#filter3499-4)"/>
+  <path id="path3072-6" transform="matrix(1.2644 0 0 1.2644 -91.912 -1320.3)" d="m213 1889v-117.28c26.456 0 69-19.562 69-70.721h117c0 106.13-83.701 188-186 188z" fill="#fff" filter="url(#filter3691-1)"/>
  </g>
  <g id="#262626ff" transform="matrix(9.2593 0 0 9.2593 -233.08 3.163e-5)" fill="#fff">
   <path id="path5" d="m115.66 22.02h8.6202v14.71h9.8295v-14.71h9.0602v36.96h-9.0602v-14.71h-9.8295v14.71h-8.6202z"/>
