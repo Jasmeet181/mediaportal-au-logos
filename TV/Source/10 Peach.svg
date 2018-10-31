@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg3028" width="2862.1" height="1e3" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <link id="dark-mode" href="" rel="stylesheet" type="text/css"/>
+ <style id="dark-mode-custom-style" type="text/css"/>
+ <defs id="defs3030">
+  <filter id="filter3499-0" color-interpolation-filters="sRGB">
+   <feFlood id="feFlood3501-0" flood-color="rgb(0,0,0)" flood-opacity=".4" result="flood"/>
+   <feComposite id="feComposite3503-5" in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur id="feGaussianBlur3505-8" result="blur" stdDeviation="8"/>
+   <feOffset id="feOffset3507-7" dx="4" dy="11" result="offset"/>
+   <feComposite id="feComposite3509-0" in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
+  <filter id="filter3691-4" color-interpolation-filters="sRGB">
+   <feFlood id="feFlood3693-9" flood-color="rgb(0,0,0)" flood-opacity=".45" result="flood"/>
+   <feComposite id="feComposite3695-3" in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur id="feGaussianBlur3697-8" result="blur" stdDeviation="7"/>
+   <feOffset id="feOffset3699-7" dx="7" dy="7" result="offset"/>
+   <feComposite id="feComposite3701-6" in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
+ </defs>
+ <metadata id="metadata3033">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="flowRoot833" transform="matrix(15.917 0 0 15.917 -6157.8 10951)" fill="#8e509f" stroke-width="1px" aria-label="Peach">
+  <path id="path904" d="m454.11-670.36v2.4h1.8v23.2h-1.8v2.4h12.8v-2.4h-3v-8.4h4.2c6.8 0 10-3.52 10-8.72s-3.2-8.48-10-8.48zm9.8 14.8v-12.4h2.6c2 0 3.2 1.52 3.2 6.2 0 4.64-1.2 6.2-3.2 6.2z"/>
+  <path id="path906" d="m497.95-647.4c-1.48 1.24-3.64 2.32-6.08 2.32-3.32 0-5.44-1.68-5.44-6.68h11.84c0.12-0.76 0.16-1.8 0.16-2.4 0-6.32-4.6-8.6-9.4-8.6-5.2 0-10.6 3.28-10.6 10.4 0 6.36 4.28 10.4 10.76 10.4 4.52 0 7.12-1.84 8.76-3.4zm-11.52-6.56c0.04-3.48 0.64-6.8 2.68-6.8 1.76 0 2.12 2.68 2.12 4.56 0 0.56-0.08 2.04-0.12 2.24z"/>
+  <path id="path908" d="m518.98-653.76c0-5.2-1.2-9-9.08-9-5.92 0-8.92 3-8.92 5.56 0 1.88 1.08 3.24 3.28 3.24 2.32 0 3.32-1.32 3.32-2.92 0-1.52-0.96-2.8-3.12-2.8 0.52-0.6 1.96-1.2 3.52-1.2 1.8 0 3.4 0.8 3.4 2.8v4.24c-8.2 0.28-11.2 3.12-11.2 6.68 0 3.4 2.32 5.2 5.32 5.2 2.4 0 4.68-1.12 5.88-4.12v1.12c0 1.6 0.72 3 4.28 3 2 0 3.96-0.56 5.32-1.48v-2c-0.32 0.2-0.72 0.28-1.12 0.28-0.68 0-0.88-0.36-0.88-1.24zm-7.6 4.48c0 1.92-0.92 2.4-1.72 2.4s-1.48-0.64-1.48-2.08c0-2 1.6-3.24 3.2-3.24z"/>
+  <path id="path910" d="m541.58-647.4c-1.48 1.24-3.64 2.32-6.08 2.32-3.52 0-5.64-2.68-5.64-7.68 0-5.6 1.8-7.92 4.8-7.92 1.48 0 3.04 0.64 3.52 1.2-2.16 0-3.12 1.28-3.12 2.8 0 1.6 1 2.92 3.2 2.92 2.32 0 3.4-1.44 3.4-3.4 0-2.68-2.96-5.6-9-5.6-5.2 0-10.8 3.28-10.8 10.4 0 6.36 4.48 10.4 10.96 10.4 4.52 0 7.12-1.84 8.76-3.4z"/>
+  <path id="path912" d="m552.47-671.16h-9.4v2.2h1.8v24.4h-1.8v2.2h11.2v-2.2h-1.8v-9.92c0-3.48 2.12-3.88 2.8-3.88 1.12 0 2 0.6 2 2.4v11.4h-1.6v2.2h11v-2.2h-1.8v-11.6c0-4.4-2.48-6.6-5.92-6.6-2.72 0-5.08 1.2-6.48 4.48z"/>
+ </g>
+ <g id="g943-8" transform="translate(-14.299 -557.49)">
+  <path id="path3074-0" transform="matrix(1.3508 0 0 1.3508 -94.487 -1960.7)" d="m820.85 2234.4a370.16 370.16 0 0 1-370.16 370.16 370.16 370.16 0 0 1-370.16-370.16 370.16 370.16 0 0 1 370.16-370.16 370.16 370.16 0 0 1 370.16 370.16z" fill="#8e509f"/>
+  <g id="g937-7" fill="#fff">
+   <path id="path3068-4" transform="matrix(1.2644 0 0 1.2644 -91.912 -1320.3)" d="m562.09 1694c-77.563 0-137.11 46.605-163.09 98v-91l-117 69v290.5h117v-90.5c21.802 43.811 78.73 98.094 162.62 98.094 107.59 0 186.44-87.222 186.44-185.06 0-116.48-92.998-189.03-185.97-189.03zm0.625 117.03c37.4 0 68.906 30.907 68.906 69.813 0 35.706-27.902 70.156-68.844 70.156-40.716 0-69.969-33.399-69.969-70.031 0-34.669 26.701-69.938 69.906-69.938z" filter="url(#filter3499-0)"/>
+   <path id="path3072-3" transform="matrix(1.2644 0 0 1.2644 -91.912 -1320.3)" d="m213 1889v-117.28c26.456 0 69-19.562 69-70.721h117c0 106.13-83.701 188-186 188z" filter="url(#filter3691-4)"/>
+  </g>
+ </g>
+</svg>
