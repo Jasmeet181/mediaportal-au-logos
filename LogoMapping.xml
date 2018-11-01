@@ -1614,6 +1614,9 @@
 			<Item Name="WIN HD Gold Coast">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
+			<Item Name="WIN HD Illawarra">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
 			<Item Name="WIN HD Lismore">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
