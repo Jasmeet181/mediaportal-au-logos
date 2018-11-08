@@ -6,106 +6,28 @@
 			<Item Name="10 Boss">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Albury">
+			<Item Name="10 Boss Broken Hill">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Ballarat">
+			<Item Name="10 Boss Port Augusta">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Bendigo">
+			<Item Name="10 Boss Port Lincoln">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Broken Hill">
+			<Item Name="10 Boss Port Macquarie">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Cairns">
+			<Item Name="10 Boss Port Pirie">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Canberra">
+			<Item Name="10 Boss Tamworth">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Central">
+			<Item Name="10 Boss Taree">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Central QLD">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Coffs Harbour">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Darling Downs">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Darwin">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Gippsland">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Gold Coast">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Launceston">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Lismore">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Mildura">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Mt Gambier">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Newcastle">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Orange">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Port Augusta">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Port Lincoln">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Port Macquarie">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Port Pirie">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Shepparton">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss South Coast">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Sunshine Coast">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Tamworth">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Taree">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Tasmania">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Townsville">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Western Vic">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Whyalla">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Wide Bay">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Boss Wollongong">
+			<Item Name="10 Boss Whyalla">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<File>10 Boss.png</File>
@@ -114,82 +36,28 @@
 			<Item Name="10 Peach">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Peach Broken Hill">
+			<Item Name="10 Peach Broken Hill">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Peach Cairns">
+			<Item Name="10 Peach Port Augusta">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Peach Canberra">
+			<Item Name="10 Peach Port Lincoln">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Peach Central QLD">
+			<Item Name="10 Peach Port Macquarie">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Peach Coffs Harbour">
+			<Item Name="10 Peach Port Pirie">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Peach Darling Downs">
+			<Item Name="10 Peach Tamworth">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Peach Darwin">
+			<Item Name="10 Peach Taree">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Peach Gippsland">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Peach Gold Coast">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Peach Launceston">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Peach Lismore">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Peach Mt Gambier">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Peach Newcastle">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Peach Orange">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Peach Port Augusta">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Peach Port Lincoln">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Peach Port Macquarie">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Peach Port Pirie">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Peach Shepparton">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Peach South Coast">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Peach Tamworth">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Peach Taree">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Peach Townsville">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Peach Western Vic">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Peach Whyalla">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="Peach Wide Bay">
+			<Item Name="10 Peach Whyalla">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<File>10 Peach.png</File>
@@ -573,6 +441,9 @@
 			<Item Name="9Gem Wollongong">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
+			<Item Name="Gem">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
 			<Item Name="Gem Illawarra">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
@@ -933,6 +804,30 @@
 			<Item Name="10">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
+			<Item Name="10 Broken Hill">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="10 Port Augusta">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="10 Port Lincoln">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="10 Port Macquarie">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="10 Port Pirie">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="10 Tamworth">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="10 Taree">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="10 Whyalla">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
 			<File>Network 10.png</File>
 		</Channel>
 		<Channel>
@@ -958,6 +853,9 @@
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<Item Name="Channel 9 Brisbane">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Channel 9 Darwin">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<Item Name="Channel 9 Melbourne">
@@ -1108,6 +1006,9 @@
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<Item Name="9HD Canberra">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="9HD Darwin">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<Item Name="9HD Far North Coast">
@@ -1455,33 +1356,6 @@
 			<File>Sonlife Broadcasting Network.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="SC10 Broken Hill">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="SC10 Port Augusta">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="SC10 Port Lincoln">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="SC10 Port Macquarie">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="SC10 Port Pirie">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="SC10 Tamworth">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="SC10 Taree">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<Item Name="SC10 Whyalla">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<File>Southern Cross Ten.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="SpreeTV">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
@@ -1530,10 +1404,10 @@
 			<Item Name="WIN Darling Downs">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="WIN Gold Coast">
+			<Item Name="WIN Gippsland">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="WIN Gippsland">
+			<Item Name="WIN Gold Coast">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<Item Name="WIN Hobart">
@@ -1584,6 +1458,84 @@
 			<File>WIN.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Boss Albury">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss Bendigo">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss Cairns">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss Canberra">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss Central QLD">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss Coffs Harbour">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss Darling Downs">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss Gippsland">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss Gold Coast">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss Hobart">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss Launceston">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss Illawarra">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss Lismore">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss Mackay">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss Mildura">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss Mt Gambier">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss Newcastle">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss Orange">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss Shepparton">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss South Coast">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss Sunshine Coast">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss Townsville">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss Western Vic">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Boss Wide Bay">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>Win Boss.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WIN Albury HD">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
 			<Item Name="WIN Bendigo HD">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
@@ -1596,9 +1548,6 @@
 			<Item Name="WIN Central QLD HD">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="WIN HD Coffs Harbour">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
 			<Item Name="WIN Darling Downs HD">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
@@ -1609,6 +1558,9 @@
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<Item Name="WIN HD">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="WIN HD Coffs Harbour">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<Item Name="WIN HD Gold Coast">
@@ -1627,6 +1579,9 @@
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<Item Name="WIN Mackay HD">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="WIN Mildura HD">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<Item Name="WIN Mt Gambier HD">
@@ -1654,6 +1609,75 @@
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<File>WIN HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Peach Albury">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Peach Bendigo">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Peach Cairns">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Peach Canberra">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Peach Central QLD">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Peach Coffs Harbour">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Peach Darling Downs">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Peach Gold Coast">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Peach Gippsland">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Peach Hobart">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Peach Illawarra">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Peach Launceston">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Peach Lismore">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Peach Mackay">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Peach Mt Gambier">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Peach Newcastle">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Peach Orange">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Peach Shepparton">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Peach South Coast">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Peach Townsville">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Peach Western Vic">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="Peach Wide Bay">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>Win Peach.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Your Money">
