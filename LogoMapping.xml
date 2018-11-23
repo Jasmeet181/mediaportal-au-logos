@@ -756,12 +756,6 @@
 			<File>Education TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Food Network">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<File>Food Network Australia.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Gold">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
