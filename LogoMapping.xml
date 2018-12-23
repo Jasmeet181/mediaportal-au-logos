@@ -3,34 +3,34 @@
 <!-- ******************************************************************** -->
 	<TV>
 		<Channel>
-			<Item Name="10 Boss">
+			<Item Name="10 Bold">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="10 Boss Broken Hill">
+			<Item Name="10 Bold Broken Hill">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="10 Boss Port Augusta">
+			<Item Name="10 Bold Port Augusta">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="10 Boss Port Lincoln">
+			<Item Name="10 Bold Port Lincoln">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="10 Boss Port Macquarie">
+			<Item Name="10 Bold Port Macquarie">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="10 Boss Port Pirie">
+			<Item Name="10 Bold Port Pirie">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="10 Boss Tamworth">
+			<Item Name="10 Bold Tamworth">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="10 Boss Taree">
+			<Item Name="10 Bold Taree">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="10 Boss Whyalla">
+			<Item Name="10 Bold Whyalla">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<File>10 Boss.png</File>
+			<File>10 Bold.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="10 Peach">
@@ -1452,79 +1452,79 @@
 			<File>WIN.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Boss Albury">
+			<Item Name="Bold Albury">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Bendigo">
+			<Item Name="Bold Bendigo">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Cairns">
+			<Item Name="Bold Cairns">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Canberra">
+			<Item Name="Bold Canberra">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Central QLD">
+			<Item Name="Bold Central QLD">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Coffs Harbour">
+			<Item Name="Bold Coffs Harbour">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Darling Downs">
+			<Item Name="Bold Darling Downs">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Gippsland">
+			<Item Name="Bold Gippsland">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Gold Coast">
+			<Item Name="Bold Gold Coast">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Hobart">
+			<Item Name="Bold Hobart">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Launceston">
+			<Item Name="Bold Launceston">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Illawarra">
+			<Item Name="Bold Illawarra">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Lismore">
+			<Item Name="Bold Lismore">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Mackay">
+			<Item Name="Bold Mackay">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Mildura">
+			<Item Name="Bold Mildura">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Mt Gambier">
+			<Item Name="Bold Mt Gambier">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Newcastle">
+			<Item Name="Bold Newcastle">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Orange">
+			<Item Name="Bold Orange">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Shepparton">
+			<Item Name="Bold Shepparton">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss South Coast">
+			<Item Name="Bold South Coast">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Sunshine Coast">
+			<Item Name="Bold Sunshine Coast">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Townsville">
+			<Item Name="Bold Townsville">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Western Vic">
+			<Item Name="Bold Western Vic">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="Boss Wide Bay">
+			<Item Name="Bold Wide Bay">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<File>Win Boss.png</File>
+			<File>WIN Bold.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WIN Albury HD">
@@ -1671,7 +1671,7 @@
 			<Item Name="Peach Wide Bay">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<File>Win Peach.png</File>
+			<File>WIN Peach.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Your Money">
