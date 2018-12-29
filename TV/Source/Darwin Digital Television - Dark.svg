@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg3028" width="1e3" height="240.59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg id="svg3028" width="1e3" height="240.59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs id="defs3030">
   <linearGradient id="linearGradient3047" x1="178.95" x2="743.37" y1="1991.5" y2="2464.7" gradientTransform="matrix(.32499 0 0 .32499 1511.6 1642.8)" gradientUnits="userSpaceOnUse">
    <stop id="stop3079" stop-color="#06b0fe" offset="0"/>
@@ -32,7 +32,7 @@
    <path id="path3043" d="m1683.2 2312.2c-23.596 0-41.71 14.178-49.615 29.813v-27.684l-35.593 20.991v88.374h35.593v-27.531c6.6325 13.328 23.951 29.842 49.473 29.842 32.731 0 56.717-26.534 56.717-56.299 0-35.435-28.292-57.506-56.574-57.506zm0.1903 35.603c11.378 0 20.962 9.4022 20.962 21.238 0 10.862-8.488 21.343-20.943 21.343-12.386 0-21.286-10.16-21.286-21.304 0-10.547 8.1228-21.276 21.266-21.276z" fill="#fff"/>
    <path id="path3899" transform="matrix(.30421 0 0 .30421 1514.7 1798.8)" d="m213 1889v-117.28c26.456 0 69-19.562 69-70.721h117c0 106.13-83.701 188-186 188z" fill-opacity=".39216" filter="url(#filter3973)"/>
    <path id="path3045" d="m1577 2371.5v-35.678c8.0481 0 20.991-5.9513 20.991-21.514h35.593c0 32.287-25.463 57.192-56.584 57.192z" fill="#fff"/>
-   <g id="flowRoot885" transform="matrix(4.4617 0 0 4.4617 6338.1 4139.9)" fill="#fff" stroke-width="1px" aria-label="DARWIN">
+   <g id="flowRoot885" transform="matrix(4.4617 0 0 4.4617 6338.1 4139.9)" fill="#0547f4" stroke-width="1px" aria-label="DARWIN">
     <path id="path902" d="m-1013.1-410.19v26.56h10.92c9.12 0 14.16-4.76 14.16-13.28s-5.04-13.28-14.16-13.28zm7.28 20.08v-13.6h3.2c4.88 0 7.24 2.24 7.24 6.8s-2.36 6.8-7.24 6.8z"/>
     <path id="path904" d="m-966.79-383.63h7.8l-10.88-26.56h-7.08l-10.88 26.56h7.6l1.4-3.8h10.64zm-6.68-18.16 3 8.28h-6.08l3-8.28z"/>
     <path id="path906" d="m-948.66-392.27h2.68l4.8 8.64h8.52l-5.96-9.44c3.4-1.24 5.16-4 5.16-8.16 0-5.92-3.52-8.96-10.36-8.96h-12.12v26.56h7.28zm0-6.48v-4.96h4.52c2.32 0 3.32 0.76 3.32 2.48s-1 2.48-3.32 2.48z"/>
