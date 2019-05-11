@@ -1218,6 +1218,12 @@
 			<File>SBS Viceland HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="SBS World Movies">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>SBS World Movies.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="7">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
