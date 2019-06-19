@@ -369,6 +369,9 @@
 			<Item Name="9Gem Darling Downs">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
+			<Item Name="9Gem Darwin">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
 			<Item Name="9Gem Dubbo">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
@@ -462,6 +465,12 @@
 			<File>9Gem.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="9Gem HD Darwin">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>9Gem HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="9Go!">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
@@ -487,6 +496,9 @@
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<Item Name="9Go! Central Coast">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="9Go! Darwin">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<Item Name="9Go! Dubbo">
@@ -606,10 +618,13 @@
 			<Item Name="9Life Central Coast">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<Item Name="9Life Far North Coast">
+			<Item Name="9Life Darwin">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<Item Name="9Life Dubbo">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="9Life Far North Coast">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<Item Name="9Life Gippsland">
