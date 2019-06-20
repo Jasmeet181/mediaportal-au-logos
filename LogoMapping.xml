@@ -351,6 +351,9 @@
 			<Item Name="9Gem Bendigo">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
+			<Item Name="9Gem Brisbane">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
 			<Item Name="9Gem Broken Hill">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
@@ -388,6 +391,9 @@
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<Item Name="9Gem Mackay">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="9Gem Melbourne">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<Item Name="9Gem Mid North Coast">
@@ -465,7 +471,25 @@
 			<File>9Gem.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="9Gem HD Adelaide">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="9Gem HD Brisbane">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
 			<Item Name="9Gem HD Darwin">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="9Gem HD Gold Coast">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="9Gem HD Melbourne">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="9Gem HD Perth">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="9Gem HD Sydney">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<File>9Gem HD.png</File>
@@ -481,6 +505,9 @@
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<Item Name="9Go! Bendigo">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="9Go! Brisbane">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<Item Name="9Go! Broken Hill">
@@ -517,6 +544,9 @@
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<Item Name="9Go! Mackay">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="9Go! Melbourne">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<Item Name="9Go! Mid North Coast">
@@ -603,6 +633,9 @@
 			<Item Name="9Life Bendigo">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
+			<Item Name="9Life Brisbane">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
 			<Item Name="9Life Broken Hill">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
@@ -640,6 +673,9 @@
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<Item Name="9Life Mackay">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="9Life Melbourne">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<Item Name="9Life Mid North Coast">
