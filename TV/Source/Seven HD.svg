@@ -1,8 +1,8 @@
-<svg id="a" width="304.09" height="146.67" version="1.1" viewBox="0 0 285.09 137.5" xmlns="http://www.w3.org/2000/svg">
- <g id="b" transform="matrix(4.7839 0 0 4.7839 48.513 -41.401)" fill="#ed1c24" fill-rule="evenodd">
-  <polygon id="c" transform="translate(-10.141 8.4507)" points="21.332 0.2028 4.5453 28.946 16.836 28.946 27.442 10.392"/>
-  <polygon id="d" transform="translate(-10.141 8.4507)" points="0 0.2028 5.985 10.392 14.576 10.392 20.513 0.2028"/>
+<svg width="304.09" height="146.67" version="1.1" viewBox="0 0 285.09 137.5" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(4.7839 0 0 4.7839 48.513 -41.401)" fill="#ed1c24" fill-rule="evenodd">
+  <polygon transform="translate(-10.141 8.4507)" points="21.332 0.2028 4.5453 28.946 16.836 28.946 27.442 10.392"/>
+  <polygon transform="translate(-10.141 8.4507)" points="0 0.2028 5.985 10.392 14.576 10.392 20.513 0.2028"/>
  </g>
- <path id="e" d="m141.52 33.929v71.094h19.312v-27.75h25.875v27.75h19.344v-71.094h-19.344v26.219h-25.875v-26.219z" fill="#ed1c24"/>
- <path id="f" d="m216.65 33.929v71.094h34.625c45.481-8.2591 44.692-65.689 0-71.094zm19.656 17.062h14c18.089 2.7472 18.002 33.458 0 36.125h-14z" fill="#ed1c24"/>
+ <path d="m141.52 33.929v71.094h19.312v-27.75h25.875v27.75h19.344v-71.094h-19.344v26.219h-25.875v-26.219z" fill="#ed1c24"/>
+ <path d="m216.65 33.929v71.094h34.625c45.481-8.2591 44.692-65.689 0-71.094zm19.656 17.062h14c18.089 2.7472 18.002 33.458 0 36.125h-14z" fill="#ed1c24"/>
 </svg>

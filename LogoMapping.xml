@@ -1257,12 +1257,6 @@
 			<File>SBS HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="SBS Viceland">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<File>SBS Viceland.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="SBS Viceland HD">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
