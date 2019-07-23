@@ -1146,7 +1146,7 @@
 			<File>Nurlu.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Open Shop">
+			<Item Name="Openshop">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<File>Open Shop.png</File>
