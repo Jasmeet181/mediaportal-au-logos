@@ -1149,7 +1149,7 @@
 			<Item Name="Openshop">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<File>Open Shop.png</File>
+			<File>Openshop.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Prime7">
