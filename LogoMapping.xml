@@ -1146,6 +1146,12 @@
 			<File>Nurlu.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Open Shop">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>Open Shop.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Prime7">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
