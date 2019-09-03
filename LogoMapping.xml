@@ -1734,10 +1734,88 @@
 <!-- ******************************************************************** -->
 	<Radio>
 		<Channel>
+			<Item Name="ABC Classic">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>ABC Classic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ABC Country">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>ABC Country.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="ABC Jazz">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<File>ABC Jazz.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ABC Kids Listen">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>ABC Kids Listen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ABC NewsRadio">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>ABC News on Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ABC Adelaide">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>ABC Radio Adelaide.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ABC Brisbane">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>ABC Radio Brisbane.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ABC Canberra">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>ABC Radio Canberra.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ABC Darwin">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>ABC Radio Darwin.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ABC Hobart">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>ABC Radio Hobart.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ABC Melbourne">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>ABC Radio Melbourne.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ABC Perth">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>ABC Radio Perth.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ABC Sydney">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>ABC Radio Sydney.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ABC RN">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>ABC RN.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Darwin FM">
@@ -1812,10 +1890,16 @@
 			<File>SBS Radio 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="SBS Radio 3">
+			<Item Name="Triple J">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
-			<File>SBS Radio 3.png</File>
+			<File>Triple J.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Triple J Unearthed">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>Triple J Unearthed.png</File>
 		</Channel>
 	</Radio>
 <!-- ******************************************************************** -->
