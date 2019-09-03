@@ -1890,6 +1890,12 @@
 			<File>SBS Radio 2.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="SBS Radio 3">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>SBS Radio 3.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Triple J">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
