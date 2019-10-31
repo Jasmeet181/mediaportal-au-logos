@@ -903,6 +903,9 @@
 			<Item Name="Channel 9 Darwin">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
+			<Item Name="Channel 9 Gold Coast">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
 			<Item Name="Channel 9 Melbourne">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
