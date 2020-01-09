@@ -102,12 +102,6 @@
 			<File>7flix.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="7Food Network">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<File>7Food Network.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="7mate">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
@@ -222,7 +216,43 @@
 			<File>7mate.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="7mate HD">
+			<Item Name="7mateHD Adelaide">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="7mateHD Brisbane">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="7mateHD Cairns">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="7mateHD Gold Coast">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="7mateHD Mackay">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="7mateHD Melbourne">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="7mateHD Perth">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="7mateHD Rockhampton">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="7mateHD Sunshine Coast">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="7mateHD Sydney">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="7mateHD Toowoomba">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="7mateHD Townsville">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="7mateHD Wide Bay">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<File>7mate HD.png</File>
