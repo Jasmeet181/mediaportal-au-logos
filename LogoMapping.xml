@@ -1458,12 +1458,6 @@
 			<File>TVSN.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="West TV">
-				<Provider>Freeview (AU)</Provider>
-			</Item>
-			<File>West TV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="WIN">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
