@@ -825,10 +825,16 @@
 			<File>Darwin TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="DDT">
+			<Item Name="10 DDT">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<File>Darwin Digital Television.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="10HD DDT">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>Darwin Digital Television HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Education TV">
