@@ -759,6 +759,12 @@
 			<File>9Life.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="9Rush">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<File>9Rush.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="ABC">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
