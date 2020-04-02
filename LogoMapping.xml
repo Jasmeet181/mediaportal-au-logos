@@ -759,7 +759,25 @@
 			<File>9Life.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="9Rush">
+			<Item Name="9Rush Adelaide">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="9Rush Brisbane">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="9Rush Darwin">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="9Rush Gold Coast">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="9Rush Melbourne">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="9Rush Perth">
+				<Provider>Freeview (AU)</Provider>
+			</Item>
+			<Item Name="9Rush Sydney">
 				<Provider>Freeview (AU)</Provider>
 			</Item>
 			<File>9Rush.png</File>
