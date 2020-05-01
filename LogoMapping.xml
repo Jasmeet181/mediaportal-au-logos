@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
+		<!-- 30/06/2020 C31 Melbourne and Channel 44 will close -->
 	<TV>
 		<Channel>
 			<Item Name="10 Bold">
