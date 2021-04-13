@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains Australian terrestrial (Freeview) television channel and radio station logos for use with [MediaPortal 1](https://www.team-mediaportal.com/) and the [LogoManager plugin](https://www.team-mediaportal.com/extensions/utilities/logomanager). Source folders contain high quality SVG and PNG logos with dark and light designs. Any help would be very much appreciated, I can be contacted either through the MediaPortal forums or GitHub issues.
+This repository contains Australian television channel and radio station logos for use with [MediaPortal 1](https://www.team-mediaportal.com/) and the [LogoManager plugin](https://www.team-mediaportal.com/extensions/utilities/logomanager). Source folders contain high quality SVG and PNG logos with dark and light designs. Any help would be very much appreciated, I can be contacted either through the MediaPortal forums or GitHub issues.
 
 ## Links
 
