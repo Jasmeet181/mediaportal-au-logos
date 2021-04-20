@@ -888,7 +888,7 @@
 			<File>Goolarri TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="GTV HD">
+				<Item Name="GTV-HD">
 					<Provider>Terrestrial (AU)</Provider>
 				</Item>
 			<File>Goolarri TV HD.png</File>
