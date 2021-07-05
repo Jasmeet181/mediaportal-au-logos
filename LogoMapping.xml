@@ -2,7 +2,10 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		30/06/2021 C31 Melbourne and Channel 44 broadcast licences expire
+		01/08/2021 Aspire replaced by Sky News Regional in SCA 10 areas (Victoria, Southern NSW and Queensland including Cairns, Townsville, Sunshine Coast, Canberra, Wollongong, Wagga Wagga, Orange, Bendigo and Ballarat)
+		01/08/2021 Sky News WIN replaced by 9Life in WIN 9 areas
+		01/08/2021 Sky News Regional added to WIN 10 areas (Northern NSW, Griffith and South Australia)
+		30/06/2024 C31 Melbourne and Channel 44 broadcast licences expire
 		-->
 	<TV>
 		<Channel>
@@ -33,6 +36,9 @@
 				<Item Name="10 Bold Whyalla">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
+				<Item Name="10Bold">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
 			<File>10 Bold.png</File>
 		</Channel>
 		<Channel>
@@ -61,6 +67,9 @@
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="10 Peach Whyalla">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10Peach">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 			<File>10 Peach.png</File>
@@ -384,12 +393,6 @@
 				<Item Name="9Gem Albury">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Gem Ballarat">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="9Gem Bendigo">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="9Gem Brisbane">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
@@ -397,12 +400,6 @@
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9Gem Bundaberg">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="9Gem Cairns">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="9Gem Canberra">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9Gem Central Coast">
@@ -414,13 +411,7 @@
 				<Item Name="9Gem Darwin">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Gem Dubbo">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="9Gem Far North Coast">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="9Gem Gippsland">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9Gem Gold Coast">
@@ -447,9 +438,6 @@
 				<Item Name="9Gem Newcastle">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Gem Orange">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="9Gem Port Augusta">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
@@ -471,10 +459,10 @@
 				<Item Name="9Gem Sydney">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Gem Toowoomba">
+				<Item Name="9Gem Taree-Port Macquarie">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Gem Townsville">
+				<Item Name="9Gem Toowoomba">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9Gem Wagga Wagga">
@@ -486,13 +474,7 @@
 				<Item Name="9Gem Wodonga">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Gem Wollongong">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="Gem">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Gem Illawarra">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="Gem Launceston">
@@ -510,25 +492,37 @@
 			<File>9Gem.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="9Gem HD Adelaide">
+				<Item Name="9Gem HD Gold Coast">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Gem HD Brisbane">
+				<Item Name="9GemHD Adelaide">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="9GemHD Brisbane">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9Gem HD Darwin">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Gem HD Gold Coast">
+				<Item Name="9GemHD Melbourne">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Gem HD Melbourne">
+				<Item Name="9GemHD Mid North Coast">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Gem HD Perth">
+				<Item Name="9GemHD New England">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Gem HD Sydney">
+				<Item Name="9GemHD Newcastle">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="9GemHD Perth">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="9GemHD Sydney">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="9GemHD Taree-Port Macquarie">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 			<File>9Gem HD.png</File>
@@ -540,12 +534,6 @@
 				<Item Name="9Go! Albury">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Go! Ballarat">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="9Go! Bendigo">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="9Go! Brisbane">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
@@ -555,25 +543,13 @@
 				<Item Name="9Go! Bundaberg">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Go! Cairns">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="9Go! Canberra">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="9Go! Central Coast">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9Go! Darwin">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Go! Dubbo">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="9Go! Far North Coast">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="9Go! Gippsland">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9Go! Gold Coast">
@@ -600,9 +576,6 @@
 				<Item Name="9Go! Newcastle">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Go! Orange">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="9Go! Port Augusta">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
@@ -624,10 +597,10 @@
 				<Item Name="9Go! Sydney">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Go! Toowoomba">
+				<Item Name="9Go! Taree-Port Macquarie">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Go! Townsville">
+				<Item Name="9Go! Toowoomba">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9Go! Wagga Wagga">
@@ -637,12 +610,6 @@
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9Go! Wodonga">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="9Go! Wollongong">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Go! Illawarra">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="Go! Launceston">
@@ -666,12 +633,6 @@
 				<Item Name="9Life Albury">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Life Ballarat">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="9Life Bendigo">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="9Life Brisbane">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
@@ -681,25 +642,13 @@
 				<Item Name="9Life Bundaberg">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Life Cairns">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="9Life Canberra">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="9Life Central Coast">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9Life Darwin">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Life Dubbo">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="9Life Far North Coast">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="9Life Gippsland">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9Life Gold Coast">
@@ -726,9 +675,6 @@
 				<Item Name="9Life Newcastle">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Life Orange">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="9Life Port Augusta">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
@@ -747,10 +693,10 @@
 				<Item Name="9Life Sunshine Coast">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Life Toowoomba">
+				<Item Name="9Life Taree-Port Macquarie">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Life Townsville">
+				<Item Name="9Life Toowoomba">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9Life Wagga Wagga">
@@ -760,9 +706,6 @@
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9Life Wodonga">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="9Life Wollongong">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 			<File>9Life.png</File>
@@ -918,7 +861,25 @@
 				<Item Name="10">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
+				<Item Name="10 Ballarat">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10 Bendigo">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
 				<Item Name="10 Broken Hill">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10 Cairns">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10 Canberra">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10 Central West">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10 Gippsland">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="10 Port Augusta">
@@ -939,13 +900,58 @@
 				<Item Name="10 Taree">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
+				<Item Name="10 Tas">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10 Townsville">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
 				<Item Name="10 Whyalla">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10 Wollongong">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10SD">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 			<File>Network 10.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="10 HD">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10 HD Ballarat">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10 HD Bendigo">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10HD Broken Hill">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10 HD Cairns">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10 HD Canberra">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10 HD Central West">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10 HD Gippsland">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10 HD Tas">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10 HD Townsville">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10 HD Wollongong">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10HD">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 			<File>Network 10 HD.png</File>
@@ -966,9 +972,6 @@
 				<Item Name="Channel 9 Darwin">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="Channel 9 Gold Coast">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="Channel 9 Melbourne">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
@@ -981,25 +984,16 @@
 				<Item Name="NBN Central Coast">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="NBN New England">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="Nine-NBN Central Coast">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="Nine-NBN Gold Coast">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="Nine-NBN New England">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="Nine">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="Nine Albury">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Nine Ballarat">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="Nine Bendigo">
@@ -1011,31 +1005,13 @@
 				<Item Name="Nine Bundaberg">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="Nine Cairns">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Nine Canberra">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Nine Coffs Harbour">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="Nine Digital">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="Nine Far North Coast">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="Nine Dubbo">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Nine Gippsland">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="Nine Launceston">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Nine Lismore">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="Nine Mackay">
@@ -1047,10 +1023,10 @@
 				<Item Name="Nine Mt Gambier">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="Nine Newcastle">
+				<Item Name="Nine New England">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="Nine Orange">
+				<Item Name="Nine Newcastle">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="Nine Port Augusta">
@@ -1071,25 +1047,19 @@
 				<Item Name="Nine Shepparton">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="Nine South Coast">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="Nine Sunshine Coast">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="Nine Tamworth">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="Nine Taree">
+				<Item Name="Nine Taree-Port Macquarie">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="Nine Tas">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="Nine Toowoomba">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Nine Townsville">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="Nine Wagga Wagga">
@@ -1104,9 +1074,6 @@
 				<Item Name="Nine Wodonga">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="Nine Wollongong">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="SC Nine">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
@@ -1119,19 +1086,10 @@
 				<Item Name="9HD Adelaide">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9HD Ballarat">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="9HD Bendigo">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9HD Brisbane">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="9HD Cairns">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="9HD Canberra">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9HD Central Coast">
@@ -1141,9 +1099,6 @@
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9HD Far North Coast">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="9HD Gippsland">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9HD Gold Coast">
@@ -1164,19 +1119,16 @@
 				<Item Name="9HD Newcastle">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9HD Orange">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="9HD Perth">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9HD Shepparton">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9HD South Coast">
+				<Item Name="9HD Sydney">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9HD Sydney">
+				<Item Name="9HD Taree-Port Macquarie">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9HD Tas">
@@ -1185,16 +1137,10 @@
 				<Item Name="9HD Toowoomba">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9HD Townsville">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="9HD Wagga Wagga">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9HD Wide Bay">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="9HD Wollongong">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 			<File>Nine HD.png</File>
@@ -1449,6 +1395,12 @@
 			<File>Sky News On WIN.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky News Regional">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+			<File>Sky News Regional.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Prog 1">
 					<Provider>Terrestrial (AU)</Provider>
 				</Item>
@@ -1485,301 +1437,16 @@
 			<File>TVSN.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="WIN">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Albury">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Bendigo">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Cairns">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Canberra">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Central QLD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Coffs Harbour">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Darling Downs">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Gippsland">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="WIN Gold Coast">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Hobart">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Launceston">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Lismore">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Mackay">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Mildura">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Mt Gambier">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Newcastle">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Orange">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Shepparton">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN South Coast">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Sunshine Coast">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Townsville">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Western Vic">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Wide Bay">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 			<File>WIN.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Bold Albury">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold Bendigo">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold Cairns">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold Canberra">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold Central QLD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold Coffs Harbour">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold Darling Downs">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold Gippsland">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold Gold Coast">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold Hobart">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold Launceston">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold Illawarra">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold Lismore">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold Mackay">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold Mildura">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold Mt Gambier">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold Newcastle">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold Orange">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold Shepparton">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold South Coast">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold Sunshine Coast">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold Townsville">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold Western Vic">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Bold Wide Bay">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-			<File>WIN Bold.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="WIN Albury HD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Bendigo HD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Cairns HD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Canberra HD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Central QLD HD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Darling Downs HD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Gippsland HD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Hobart HD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN HD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN HD Coffs Harbour">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="WIN HD Gold Coast">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="WIN HD Illawarra">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN HD Lismore">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN HD Newcastle">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Launceston HD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Mackay HD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Mildura HD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Mt Gambier HD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Orange HD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Shepparton HD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN South Coast HD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Sunshine Coast HD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Townsville HD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Western Vic HD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="WIN Wide Bay HD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 			<File>WIN HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Peach Albury">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Peach Bendigo">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Peach Cairns">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Peach Canberra">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Peach Central QLD">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Peach Coffs Harbour">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Peach Darling Downs">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Peach Gold Coast">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Peach Gippsland">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Peach Hobart">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Peach Illawarra">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Peach Launceston">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Peach Lismore">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Peach Mackay">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Peach Mt Gambier">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Peach Newcastle">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Peach Orange">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Peach Shepparton">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Peach South Coast">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Peach Townsville">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Peach Western Vic">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Peach Wide Bay">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-			<File>WIN Peach.png</File>
 		</Channel>
 	</TV>
 <!-- ******************************************************************** -->
