@@ -81,6 +81,12 @@
 			<File>10 Shake.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="54 WA">
+					<Provider>Terrestrial (AU)</Provider>
+				</Item>
+			<File>54 WA.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="7flix">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
@@ -417,9 +423,6 @@
 				<Item Name="9Gem Gold Coast">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Gem Hobart">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="9Gem Mackay">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
@@ -445,9 +448,6 @@
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9Gem Port Pirie">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="9Gem Rockhampton">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9Gem Shepparton">
@@ -555,9 +555,6 @@
 				<Item Name="9Go! Gold Coast">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Go! Hobart">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="9Go! Mackay">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
@@ -583,9 +580,6 @@
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9Go! Port Pirie">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="9Go! Rockhampton">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9Go! Shepparton">
@@ -654,9 +648,6 @@
 				<Item Name="9Life Gold Coast">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Life Hobart">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="9Life Launceston">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
@@ -682,9 +673,6 @@
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9Life Port Pirie">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="9Life Rockhampton">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9Life Shepparton">
@@ -852,6 +840,12 @@
 			<File>Imparja Television.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="ICTV">
+					<Provider>Terrestrial (AU)</Provider>
+				</Item>
+			<File>Indigenous Community Television.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="iShopTV">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
@@ -892,6 +886,9 @@
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="10 Port Pirie">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10 Rockhampton">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="10 Tamworth">
@@ -942,6 +939,9 @@
 				<Item Name="10 HD Gippsland">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
+				<Item Name="10 HD Rockhampton">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
 				<Item Name="10 HD Tas">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
@@ -963,6 +963,9 @@
 			<File>National Indigenous Television.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Channel 9">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
 				<Item Name="Channel 9 Adelaide">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
@@ -1039,9 +1042,6 @@
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="Nine Port Pirie">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="Nine Rockhampton">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="Nine Shepparton">
