@@ -465,9 +465,6 @@
 				<Item Name="9Gem Toowoomba">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Gem Wagga Wagga">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="9Gem Whyalla">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
@@ -597,9 +594,6 @@
 				<Item Name="9Go! Toowoomba">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="9Go! Wagga Wagga">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="9Go! Whyalla">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
@@ -685,9 +679,6 @@
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9Life Toowoomba">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="9Life Wagga Wagga">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9Life Whyalla">
@@ -891,6 +882,9 @@
 				<Item Name="10 Rockhampton">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
+				<Item Name="10 Sunshine Coast">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
 				<Item Name="10 Tamworth">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
@@ -901,6 +895,9 @@
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="10 Townsville">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10 Wagga Wagga">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="10 Whyalla">
@@ -942,10 +939,16 @@
 				<Item Name="10 HD Rockhampton">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
+				<Item Name="10 HD Sunshine Coast">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
 				<Item Name="10 HD Tas">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="10 HD Townsville">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10 HD Wagga Wagga">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="10 HD Wollongong">
@@ -1062,9 +1065,6 @@
 				<Item Name="Nine Toowoomba">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="Nine Wagga Wagga">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="Nine Whyalla">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
@@ -1135,9 +1135,6 @@
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9HD Toowoomba">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="9HD Wagga Wagga">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9HD Wide Bay">
