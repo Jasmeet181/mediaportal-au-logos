@@ -501,6 +501,9 @@
 				<Item Name="9Gem HD Darwin">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
+				<Item Name="9GemHD Far North Coast">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
 				<Item Name="9GemHD Melbourne">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
