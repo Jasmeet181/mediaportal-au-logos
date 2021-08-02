@@ -2,9 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		01/08/2021 Aspire replaced by Sky News Regional in SCA 10 areas (Victoria, Southern NSW and Queensland including Cairns, Townsville, Sunshine Coast, Canberra, Wollongong, Wagga Wagga, Orange, Bendigo and Ballarat)
-		01/08/2021 Sky News WIN replaced by 9Life in WIN 9 areas
-		01/08/2021 Sky News Regional added to WIN 10 areas (Northern NSW, Griffith and South Australia)
 		30/06/2024 C31 Melbourne and Channel 44 broadcast licences expire
 		-->
 	<TV>
@@ -747,12 +744,6 @@
 			<File>ABC TV HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Aspire">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-			<File>Aspire TV.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="C31">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
@@ -1387,12 +1378,6 @@
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 			<File>Seven Tasmania.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Sky News On WIN">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-			<File>Sky News On WIN.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky News Regional">
