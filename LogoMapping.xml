@@ -273,9 +273,6 @@
 				<Item Name="7mateHD Townsville">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="7mateHD Wide Bay">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 			<File>7mate HD.png</File>
 		</Channel>
 		<Channel>
@@ -897,6 +894,9 @@
 				<Item Name="10 Whyalla">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
+				<Item Name="10 Wide Bay">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
 				<Item Name="10 Wollongong">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
@@ -943,6 +943,9 @@
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="10 HD Wagga Wagga">
+					<Provider>Freeview (AU)</Provider>
+				</Item>
+				<Item Name="10 HD Wide Bay">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="10 HD Wollongong">
@@ -1062,9 +1065,6 @@
 				<Item Name="Nine Whyalla">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
-				<Item Name="Nine Wide Bay">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
 				<Item Name="Nine Wodonga">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
@@ -1129,9 +1129,6 @@
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 				<Item Name="9HD Toowoomba">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-				<Item Name="9HD Wide Bay">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
 			<File>Nine HD.png</File>
