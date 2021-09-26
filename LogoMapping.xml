@@ -1140,12 +1140,6 @@
 			<File>Nurlu.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Openshop">
-					<Provider>Freeview (AU)</Provider>
-				</Item>
-			<File>Openshop.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Prime7">
 					<Provider>Freeview (AU)</Provider>
 				</Item>
